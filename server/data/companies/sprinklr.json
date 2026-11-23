@@ -1,0 +1,42 @@
+{
+  "slug": "sprinklr",
+  "name": "Sprinklr",
+  "category": "cx-vendor",
+  "careersUrl": "https://www.sprinklr.com/careers/",
+  "ats": "workday",
+  "fetch": {
+    "url": "https://sprinklr.wd1.myworkdayjobs.com/wday/cxs/sprinklr/careers/jobs",
+    "method": "POST",
+    "headers": {
+      "content-type": "application/json"
+    },
+    "body": {
+      "appliedFacets": {
+        "locationCountry": [
+          "c4f78be1a8f14da0ab49ce1162348a5e"
+        ]
+      },
+      "limit": 20,
+      "offset": 0,
+      "searchText": ""
+    },
+    "pagination": {
+      "maxPages": 5,
+      "sortedNewestFirst": false
+    }
+  },
+  "filters": {
+    "keywords": [
+      "Dialogflow",
+      "Conversational AI",
+      "CCAI",
+      "Agent Assist",
+      "CX Agent Studio",
+      "GECX"
+    ],
+    "indiaFiltered": true
+  },
+  "status": "verified",
+  "verifiedOn": "2026-11-21",
+  "notes": "India facet locationCountry = India, read from the unfiltered Workday listing on 2026-11-21."
+}

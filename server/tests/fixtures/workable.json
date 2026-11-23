@@ -1,0 +1,126 @@
+{
+  "name": "Stadium",
+  "description": "<p>Stadium is a single platform for global recognition, swag, and gifting. Companies use Stadium to engage employees, clients, partners, and prospects through premium swag, snack boxes, and gifting–all fulfilled locally in 170+ countries. Whether companies are recognizing 1 or 1,000+, Stadium makes it easy to deliver meaningful recognition at any scale.</p><p>We’re a product-first ambitious team that’s obsessed with a united vision for taking our business to new heights. As a company, we learn fast, support each other, and focus on continuous quality and improvement for all of our customers. While our business has continually evolved over the years, our purpose has remained constant: to strengthen the bond between companies, their employees, and their customers.</p><p><br></p><img title=\"\" alt=\"\" src=\"https://workablehr.s3.amazonaws.com/uploads/photos/194259/aab47c26a8434fdfbf5bf1f769a0145b.png\"><p><br></p><p><br></p><p>Watch our <a href=\"https://www.youtube.com/playlist?list=PLnuoDHNwT1mVQZqjl4SiOdtrnHl9o-Bch\" target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external\">Future of Work Series</a><br><br></p>",
+  "jobs": [
+    {
+      "title": "AWS DevOps Engineer",
+      "shortcode": "1EA54907E5",
+      "code": "",
+      "employment_type": "Full-time",
+      "telecommuting": true,
+      "department": "Engineering",
+      "url": "https://apply.workable.com/j/1EA54907E5",
+      "shortlink": "https://apply.workable.com/j/1EA54907E5",
+      "application_url": "https://apply.workable.com/j/1EA54907E5/apply",
+      "published_on": "2026-02-24",
+      "created_at": "2026-02-04",
+      "country": "India",
+      "city": "",
+      "state": "",
+      "education": "",
+      "experience": "",
+      "function": "Engineering",
+      "industry": "",
+      "locations": [
+        {
+          "country": "India",
+          "countryCode": "IN",
+          "city": "",
+          "region": null,
+          "hidden": false
+        }
+      ],
+      "description": "<p>We are looking for an experienced <strong>AWS DevOps Engineer</strong> who enjoys solving complex, real-world infrastructure problems at scale.</p><p>At <strong>Stadium</strong>, we’re building products that bring delight and connection to organizations worldwide. From rewards and recognition to personalized gifting and brand experiences, our platform combines creativity, data, and technology to make every interaction meaningful. Our systems handle extreme and unpredictable traffic spikes — from hundreds to hundreds of thousands of requests per minute — and this role plays a critical part in keeping them fast, reliable, and secure.</p><p>In this role, you will take end-to-end ownership of cloud infrastructure: from architecture and automation to deployment, monitoring, security, performance, scalability, and cost optimization. You will work closely with software engineers to define infrastructure standards and deployment practices, and you’ll be expected to reason through ambiguous problems, challenge assumptions, and design practical, production-ready solutions.</p><h3>Your Role</h3><p>You will be responsible for:</p><ul><li> Designing, building, and operating secure, scalable, and highly available AWS infrastructure. </li><li> Architecting systems that can handle sudden and massive traffic surges. </li><li> Owning architectural decisions, trade-offs, and outcomes in production environments. </li><li> Ensuring fault tolerance, high availability, and disaster recovery. </li><li> Building and managing infrastructure using Infrastructure as Code (Terraform). </li><li> Automating provisioning, scaling, recovery, and operational workflows. </li><li> Designing and maintaining robust CI/CD pipelines for safe, repeatable, zero-downtime deployments. </li><li> Partnering with engineering teams to evolve infrastructure and deployment standards. </li><li> Implementing monitoring, alerting, and observability for proactive issue detection. </li><li> Leading incident response, root cause analysis, and long-term system improvements. </li><li> Owning cloud security posture and enforcing best practices. </li><li> Monitoring and optimizing cloud costs while maintaining performance and scalability.</li></ul><p><strong>Requirements</strong></p><h3>What You'll Bring to the Table</h3><p><strong>Primary Requirements:</strong></p><ul><li> 4–7 years of hands-on experience with AWS in production environments. </li><li> Proven experience operating and improving high-traffic, high-availability systems. </li><li> Strong understanding of cloud networking, security, and system design. </li><li> Hands-on experience with Infrastructure as Code using <strong>Terraform</strong>. </li><li> Experience designing and maintaining <strong>CI/CD pipelines</strong>. </li><li> Strong Linux system administration skills. </li><li> Proficiency in scripting and at least one programming language. </li><li> Strong written and verbal communication skills. </li><li> Ability to clearly explain past decisions, trade-offs, failures, and learnings. </li><li> Comfort working in ambiguous environments without rigid SOPs. </li><li> Strong ownership mindset and problem-solving skills. </li></ul><p><strong>Preferred Requirements:</strong></p><ul><li> AWS certifications. </li><li> Experience in fast-growing or high-scale environments. </li><li> Experience supporting modern web applications. </li></ul><p><strong>Benefits</strong></p><ul><li>Competitive salary based on skill set.</li><li>Fully remote role - work with talented teammates across the globe. </li><li>Flexible working hours and autonomy over your schedule. </li><li>5-day work week for better work-life balance.</li><li>Team retreats and offsites to connect and recharge. </li><li>Meal vouchers and employee benefits(health insurance) support. </li><li>Internal learning tracks to grow into other areas of development. </li><li>Plenty of company swag and additional perks.</li></ul>"
+    },
+    {
+      "title": "Engineering Manager - Product Engineering",
+      "shortcode": "6EC6B89B09",
+      "code": "",
+      "employment_type": "",
+      "telecommuting": true,
+      "department": "Engineering",
+      "url": "https://apply.workable.com/j/6EC6B89B09",
+      "shortlink": "https://apply.workable.com/j/6EC6B89B09",
+      "application_url": "https://apply.workable.com/j/6EC6B89B09/apply",
+      "published_on": "2026-08-12",
+      "created_at": "2026-08-12",
+      "country": "India",
+      "city": "",
+      "state": "",
+      "education": "",
+      "experience": "",
+      "function": "Engineering",
+      "industry": "",
+      "locations": [
+        {
+          "country": "India",
+          "countryCode": "IN",
+          "city": "",
+          "region": null,
+          "hidden": false
+        }
+      ],
+      "description": "<p>We are looking for an Engineering Manager to lead the engineering execution of a product pod. This role is the technical counterpart to the pod owner (product owner), responsible for ensuring features are delivered with high quality, sound technical decisions, and predictable timelines.</p><p>You will bridge product and engineering by reviewing requirements, guiding technical decisions, driving engineering best practices, and ensuring the team delivers scalable, maintainable software. This role replaces the traditional Project Manager within the pod.</p><p>A pod is a small, cross-functional team with end-to-end ownership of a specific business domain or product area. It is accountable for delivering outcomes, making decisions, and continuously improving its domain. Consider, the pod owner to be the CEO of the pod and you, the engineering manage will be the CTO of the pod.</p><p><strong><br>Key Responsibilities</strong></p><ul><li>Own engineering delivery, planning, estimation, and execution for the product pod.</li><li>Partner with the pod owner to review PRDs, identify gaps, edge cases, and technical risks before development begins.</li><li>Lead technical discussions, challenge assumptions, and validate implementation approaches.</li><li>Drive predictable delivery while balancing speed, quality, and technical debt.</li><li>Enforce engineering best practices, including code reviews, testing, documentation, observability, security, and coding standards.</li><li>Ensure production quality by driving root cause analysis and preventing recurring issues.</li><li>Mentor engineers, improve engineering discipline, and foster a culture of ownership and accountability.</li><li>Collaborate with QA, Design, DevOps, and other teams to remove blockers and ensure successful releases.</li><li>Perform Technical research for the pod on behalf of the pod owner.</li></ul><p><strong>Requirements</strong></p><p><strong>Primary Requirements</strong></p><ul><li>8+ years of professional software engineering experience.</li><li>2+ years leading engineering teams or technical delivery.</li><li>Strong experience building modern Enterprise SaaS products.</li><li>Solid understanding of software architecture and system design.</li><li>Knowledge of cloud-native applications (AWS preferred).</li><li>Experience with modern development practices, CI/CD, and automated testing.</li><li>Strong understanding of Agile product development.</li><li>Ability to review code and technical designs.</li><li>Excellent planning, estimation, and delivery management skills.</li><li>Strong communication and stakeholder management abilities.</li><li>Ability to balance business priorities with engineering quality.</li></ul><p></p><p><strong>Preferred Requirements</strong></p><ul><li>Experience leading cross-functional product teams.</li><li>Experience in high-growth product startups.</li><li>Knowledge of secure software development practices.</li><li>Experience with observability, production monitoring, and incident management.</li><li>Experience mentoring senior engineers and technical leads.</li><li>Expertise with AI-assisted software development tools and workflows.<br></li></ul><p><strong>Soft Skills &amp; Mindset</strong></p><ul><li>Clear communication and the confidence to challenge and be challenged.</li><li>Curious, proactive, and generous with knowledge.</li><li>Ability to work in a fast-paced, collaborative product environment.</li><li>Strong desire to build real products that solve real problems.</li></ul><p></p><p><strong>Success in the Role</strong></p><p>A successful Engineering Manager will:</p><ul><li>Deliver features on time with high engineering quality.</li><li>Improve PRD readiness by identifying gaps early.</li><li>Challenge weak technical decisions and promote sound engineering practices.</li><li>Reduce production defects and engineering rework.</li><li>Improve estimation accuracy and delivery predictability.</li><li>Build a culture of technical excellence, accountability, and continuous improvement.</li></ul><p><strong>Benefits</strong></p><p>At Stadium, your input matters, and we believe in creating a culture where innovation is encouraged. Join us in crafting the future of group gifting and recognition. Your adventure starts here!<br></p><ul><li>Competitive salary based on skill set.</li><li>Fully remote role - work with talented teammates across the globe.</li><li>Flexible working hours and autonomy over your schedule.</li><li>5-day work week for better work-life balance.</li><li>Team retreats and offsites to connect and recharge.</li><li>Meal vouchers and employee benefits (health insurance) support.</li><li>Internal learning tracks to grow into other areas of development.</li><li>Plenty of company swag and additional perks.</li></ul>"
+    },
+    {
+      "title": "Javascript Developer (React.js)",
+      "shortcode": "B78BF9EF9A",
+      "code": "",
+      "employment_type": "Full-time",
+      "telecommuting": true,
+      "department": "Engineering",
+      "url": "https://apply.workable.com/j/B78BF9EF9A",
+      "shortlink": "https://apply.workable.com/j/B78BF9EF9A",
+      "application_url": "https://apply.workable.com/j/B78BF9EF9A/apply",
+      "published_on": "2026-02-04",
+      "created_at": "2026-02-03",
+      "country": "India",
+      "city": "",
+      "state": "",
+      "education": "",
+      "experience": "",
+      "function": "Engineering",
+      "industry": "",
+      "locations": [
+        {
+          "country": "India",
+          "countryCode": "IN",
+          "city": "",
+          "region": null,
+          "hidden": false
+        }
+      ],
+      "description": "<h3>Join the Stadium Team!</h3><p>Are you passionate about delivering outstanding user experiences? Do you thrive in a fast-paced, innovative environment? At Stadium, we’re on a mission to transform the way companies engage through group gifting and rewards, and we're seeking a talented <strong>JavaScript Developer</strong> with a strong focus on <strong>React.js</strong> to join our dynamic team!</p><p>This isn’t just any development role; it's a chance to be a core part of our journey as we build exciting solutions that connect companies with their employees and customers in meaningful ways. You will collaborate closely with product managers, designers, and fellow developers to create intuitive and responsive web applications that users will love.</p><h3>Your Role</h3><p>As a <strong>JavaScript Developer (React.js)</strong>, you will:</p><ul> <li>Build robust and scalable web applications using React.js that make our platform easy and enjoyable to use.</li> <li>Collaborate with cross-functional teams to design and implement new features that enhance user engagement.</li> <li>Optimize applications for maximum speed and scalability to support our global user base.</li> <li>Utilize your problem-solving skills to troubleshoot and debug issues, ensuring a seamless user experience.</li> <li>Stay up to date on emerging technologies and best practices in web development to keep our applications cutting-edge.</li> </ul><p><strong>Requirements</strong></p><h3>What You'll Bring to the Table</h3><p><strong>Primary Requirements</strong></p><ul><li>2+ years of professional experience with Vanilla JavaScript fundamentals. </li><li>2+ years of professional experience with React.js. </li><li>Strong understanding of React concepts such as functional components, hooks, state management, context, and lifecycle methods. </li><li>Experience with ES6+, HTML, CSS, and Redux (or similar state management libraries). </li><li>Experience integrating REST-based third-party APIs. </li><li>Familiarity with browser testing, debugging, and performance optimization. </li><li>Strong problem-solving skills with the ability to analyze and clarify requirements independently. </li><li> High attention to detail and strong visualization of UI/UX. </li><li>Experience with code refactoring, optimization, and peer code reviews. </li><li>Working knowledge of Webpack and Babel.</li><li> Minimum 80% marks in both 10th and 12th standard.</li></ul><p></p><p><strong>Preferred Requirements</strong></p><ul><li>Experience using Google Lighthouse and PageSpeed Insights to improve frontend performance. </li><li>Understanding of frontend build and deployment using Gulp. </li><li>Knowledge of SEO best practices for web applications. </li><li>Familiarity with TypeScript. </li><li>Familiarity with Next.js and server-side rendering concepts. </li><li>Strong communication skills and ability to work with product and engineering teams. </li><li>Experience working with asynchronous or distributed teams. </li><li>Prior experience mentoring junior developers.</li></ul><p></p><p><strong>Soft Skills &amp; Mindset</strong></p><ul><li> Clear communication and willingness to ask questions. </li><li> Curious, proactive, and eager to learn from senior engineers. </li><li> Ability to work in a fast-paced, collaborative product environment. </li><li> Strong desire to build real products that solve real problems.</li></ul><p></p><p>At Stadium, your input matters, and we believe in creating a culture where innovation is encouraged. Join us in crafting the future of group gifting and recognition. Your adventure starts here!</p><p><strong>Benefits</strong></p><ul><li>Competitive salary based on skill set.</li><li>Fully remote role - work with talented teammates across the globe. </li><li>Flexible working hours and autonomy over your schedule. </li><li>5-day work week for better work-life balance.</li><li>Team retreats and offsites to connect and recharge. </li><li>Meal vouchers and employee benefits(health insurance) support. </li><li>Internal learning tracks to grow into other areas of development. </li><li>Plenty of company swag and additional perks.</li></ul>"
+    },
+    {
+      "title": "Technical Customer Success Specialist (Integrations & Solutions)",
+      "shortcode": "0CFA4B08FF",
+      "code": "",
+      "employment_type": "Full-time",
+      "telecommuting": false,
+      "department": "Engineering",
+      "url": "https://apply.workable.com/j/0CFA4B08FF",
+      "shortlink": "https://apply.workable.com/j/0CFA4B08FF",
+      "application_url": "https://apply.workable.com/j/0CFA4B08FF/apply",
+      "published_on": "2026-08-24",
+      "created_at": "2026-08-24",
+      "country": "India",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "education": null,
+      "experience": "Associate",
+      "function": "Engineering",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "India",
+          "countryCode": "IN",
+          "city": "New Delhi",
+          "region": "Delhi",
+          "hidden": false
+        }
+      ],
+      "description": "<h3></h3><p>Stadium helps companies celebrate their people through group gifting, rewards, and recognition. Teams around the world use Stadium to send gifts, run recognition programs, and make their people feel valued, and they rely on it working smoothly with the tools they already use.</p><h3>The role</h3><p>You’re the person our customers talk to when they’re setting up Stadium, connecting it to their systems, or figuring out how to make something work.</p><p>You’ll jump on calls, understand what the customer is trying to achieve, and show them how to get there in Stadium. When something breaks, you’ll dig in, find out why, and either fix it yourself or work with our Engineering team until it’s resolved. Then you’ll explain it to the customer clearly and confidently.</p><p>This is a&nbsp;<strong>customer-facing role first</strong>. Your technical skills are how you solve problems, and your communication skills are how customers experience you.</p><h3>What this role is, and what it isn’t</h3><p><strong>It is:</strong>&nbsp;customer calls, solution design within our product, configuring accounts and integrations, troubleshooting API and webhook issues, and owning problems through to resolution.</p><p><strong>It isn’t:</strong>&nbsp;ERP implementation, middleware development (SAP PI/PO, CPI, MuleSoft, Boomi, etc.), or a backend engineering role. If you’re looking to go deeper into those platforms, this isn’t the right fit, and we’d rather tell you upfront.</p><p><strong>Requirements</strong></p><h3>What you’ll do</h3><p><strong>Talk to customers</strong></p><ul><li>Lead calls with customers to understand their goals, answer technical and product questions, and recommend the best way to achieve what they need in Stadium.</li><li>Explain solutions, workarounds, limitations, and timelines in clear, simple language, whether you’re speaking with an HR manager or an IT admin.</li></ul><p><strong>Set things up</strong></p><ul><li>Configure customer accounts, workflows, and integrations in the Stadium platform.</li><li>Help customers connect Stadium with the tools they use, such as [HRIS platforms, SSO providers, Slack / Microsoft Teams, and our REST APIs and webhooks].</li></ul><p><strong>Solve problems</strong></p><ul><li>Investigate integration and product issues using API docs, request/response payloads, and logs to find the root cause.</li><li>Fix what you can directly. When you need Engineering, bring them a clear, well-investigated ticket instead of just passing it along.</li><li>Test and validate fixes before confirming resolution with the customer.</li></ul><p><strong>Own it end-to-end</strong></p><ul><li>Take customer issues from first reply to final resolution, following up across Engineering, Product, QA, and Customer Experience.</li><li>Spot requests our product can’t handle yet, and work with Product to decide what happens next.</li><li>Document solutions, common setups, and recurring requests so the whole team gets smarter.</li></ul><h3>What we’re looking for</h3><ul><li><strong>2–4 years in a customer-facing technical role at a SaaS company</strong>, such as technical support, implementation, solutions, or technical customer success. Most of your experience should involve speaking directly with customers.</li><li><strong>Excellent spoken and written English.</strong>&nbsp;You can run a call confidently, handle a frustrated customer calmly, and write an email that needs no follow-up questions.</li><li><strong>Solid working knowledge of APIs</strong>: REST, JSON, webhooks, authentication (API keys, OAuth, SSO), and reading logs. You’re comfortable testing an API call in Postman, but you don’t need to be a developer.</li><li><strong>A natural troubleshooter.</strong>&nbsp;You enjoy figuring out&nbsp;<em>why</em>&nbsp;something isn’t working.</li><li><strong>Ownership.</strong>&nbsp;You don’t let issues sit in someone else’s queue. You chase them to closure.</li><li>A B.Tech/B.E. or equivalent hands-on technical experience.</li><li>Flexibility to occasionally join customer calls across time zones.</li></ul><h3>Nice to have</h3><ul><li>Some scripting or SQL experience</li><li>Experience with HR tech, employee engagement, or rewards/recognition platforms</li><li>Experience with tools like [Zendesk / Intercom / Jira / Linear]</li></ul><h3>You’ll love this role if</h3><ul><li>You have a technical background but enjoy working with people more than writing code all day.</li><li>You like being the person who makes things&nbsp;<em>make sense</em>&nbsp;for others.</li><li>You get satisfaction from closing the loop: customer happy, issue solved, docs updated.</li></ul><p><strong>Benefits</strong></p><p>At Stadium, your input matters, and we believe in creating a culture where innovation is encouraged. Join us in crafting the future of group gifting and recognition. Your adventure starts here!</p><ul><li>Competitive salary based on skill set.</li><li>Fully remote role - work with talented teammates across the globe.</li><li>Flexible working hours and autonomy over your schedule.</li><li>5-day work week for better work-life balance.</li><li>Team retreats and offsites to connect and recharge.</li><li>Meal vouchers and employee benefits (health insurance) support.</li><li>Internal learning tracks to grow into other areas of development.</li><li>Plenty of company swag and additional perks.</li></ul>"
+    }
+  ]
+}

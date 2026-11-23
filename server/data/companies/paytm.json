@@ -1,0 +1,29 @@
+{
+  "slug": "paytm",
+  "name": "Paytm",
+  "category": "product-bfsi",
+  "careersUrl": "https://paytm.com/careers",
+  "ats": "lever",
+  "fetch": {
+    "url": "https://api.lever.co/v0/postings/paytm?mode=json",
+    "method": "GET",
+    "pagination": {
+      "maxPages": 5,
+      "sortedNewestFirst": false
+    }
+  },
+  "filters": {
+    "keywords": [
+      "Dialogflow",
+      "Conversational AI",
+      "CCAI",
+      "Agent Assist",
+      "CX Agent Studio",
+      "GECX"
+    ],
+    "indiaFiltered": false
+  },
+  "status": "verified",
+  "verifiedOn": "2026-11-21",
+  "notes": "Lever board paytm found by detect:ats on the careers page (2026-11-21). Lever has no keyword search; scoring handles relevance. Board had 199 jobs on 2026-11-21 (Lever pages of 100), so maxPages must be at least 2."
+}

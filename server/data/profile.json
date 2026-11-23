@@ -1,0 +1,748 @@
+{
+  "candidate": {
+    "experienceYears": {
+      "min": 5,
+      "max": 8
+    },
+    "targetLevels": [
+      "Senior Engineer",
+      "Lead",
+      "Consultant"
+    ],
+    "preferredCities": [
+      "Pune",
+      "Mumbai",
+      "Remote"
+    ],
+    "openToRelocation": true
+  },
+  "keywords": {
+    "core": [
+      {
+        "term": "Conversational AI",
+        "aliases": [
+          "Conversation AI",
+          "Conversational Artificial Intelligence",
+          "ConvAI"
+        ]
+      },
+      {
+        "term": "CX Agent Studio",
+        "aliases": []
+      },
+      {
+        "term": "Gemini Enterprise for CX",
+        "aliases": [
+          "GECX",
+          "Gemini Enterprise for Customer Experience",
+          "Gemini Enterprise CX"
+        ]
+      },
+      {
+        "term": "Customer Engagement Suite",
+        "aliases": [
+          "Google CX",
+          "Google Customer Experience"
+        ]
+      },
+      {
+        "term": "Dialogflow CX",
+        "aliases": [
+          "Dialog flow CX",
+          "DFCX"
+        ]
+      },
+      {
+        "term": "Dialogflow ES",
+        "aliases": [
+          "Dialog flow ES",
+          "Dialogflow Essentials"
+        ]
+      },
+      {
+        "term": "Dialogflow",
+        "aliases": [
+          "Dialog flow"
+        ]
+      },
+      {
+        "term": "Agent Assist",
+        "aliases": [
+          "AgentAssist"
+        ]
+      },
+      {
+        "term": "CCAI",
+        "aliases": [
+          "Contact Center AI",
+          "Contact Centre AI",
+          "Contact Center Artificial Intelligence"
+        ]
+      },
+      {
+        "term": "CCAI Platform",
+        "aliases": [
+          "CCAI-P",
+          "CCAIP",
+          "Contact Center AI Platform"
+        ]
+      },
+      {
+        "term": "Conversational Insights",
+        "aliases": [
+          "CCAI Insights"
+        ]
+      },
+      {
+        "term": "Conversational Agents",
+        "aliases": [
+          "Conversational Agent"
+        ]
+      },
+      {
+        "term": "Vertex AI Agent Builder",
+        "aliases": [
+          "Google Agent Builder",
+          "Vertex AI Agents",
+          "Vertex AI Conversation",
+          "Vertex AI Search and Conversation",
+          "Vertex AI Agent Engine",
+          "Agent Development Kit"
+        ]
+      },
+      {
+        "term": "virtual agent",
+        "aliases": [
+          "intelligent virtual agent",
+          "IVA"
+        ]
+      },
+      {
+        "term": "voicebot",
+        "aliases": [
+          "voice bot",
+          "voice agent",
+          "voice AI",
+          "voice assistant"
+        ]
+      },
+      {
+        "term": "chatbot",
+        "aliases": [
+          "chat bot"
+        ]
+      },
+      {
+        "term": "IVR",
+        "aliases": [
+          "interactive voice response",
+          "VoiceXML",
+          "VXML"
+        ]
+      }
+    ],
+    "adjacent": [
+      {
+        "term": "Genesys",
+        "aliases": [
+          "PureCloud",
+          "PureConnect"
+        ]
+      },
+      {
+        "term": "NICE CXone",
+        "aliases": [
+          "CXone",
+          "NICE CX One",
+          "NICE inContact",
+          "inContact"
+        ]
+      },
+      {
+        "term": "Five9",
+        "aliases": []
+      },
+      {
+        "term": "Amazon Connect",
+        "aliases": [
+          "AWS Connect"
+        ]
+      },
+      {
+        "term": "Amazon Lex",
+        "aliases": [
+          "Lex",
+          "AWS Lex"
+        ]
+      },
+      {
+        "term": "Twilio Flex",
+        "aliases": []
+      },
+      {
+        "term": "Kore.ai",
+        "aliases": []
+      },
+      {
+        "term": "Yellow.ai",
+        "aliases": []
+      },
+      {
+        "term": "Rasa",
+        "aliases": []
+      },
+      {
+        "term": "NLU",
+        "aliases": [
+          "natural language understanding"
+        ]
+      },
+      {
+        "term": "LLM agents",
+        "aliases": [
+          "LLM agent",
+          "AI agent",
+          "agentic",
+          "GenAI agent",
+          "generative AI agent"
+        ]
+      },
+      {
+        "term": "RAG",
+        "aliases": [
+          "retrieval augmented generation"
+        ]
+      },
+      {
+        "term": "prompt engineering",
+        "aliases": [
+          "prompt engineer"
+        ]
+      },
+      {
+        "term": "contact center",
+        "aliases": [
+          "contact centre",
+          "call center",
+          "call centre",
+          "CCaaS"
+        ]
+      },
+      {
+        "term": "conversation design",
+        "aliases": [
+          "conversational design",
+          "conversation designer",
+          "conversational designer"
+        ]
+      },
+      {
+        "term": "Copilot Studio",
+        "aliases": [
+          "Power Virtual Agent"
+        ]
+      },
+      {
+        "term": "Watson Assistant",
+        "aliases": [
+          "watsonx Assistant"
+        ]
+      },
+      {
+        "term": "AI customer experience",
+        "aliases": [
+          "AI CX",
+          "Customer Experience AI",
+          "CX AI"
+        ]
+      },
+      {
+        "term": "Avaya",
+        "aliases": []
+      },
+      {
+        "term": "Cisco Contact Center",
+        "aliases": [
+          "Webex Contact Center",
+          "UCCE",
+          "UCCX"
+        ]
+      },
+      {
+        "term": "speech recognition",
+        "aliases": [
+          "ASR",
+          "speech to text",
+          "STT",
+          "text to speech",
+          "TTS"
+        ]
+      }
+    ]
+  },
+  "weights": {
+    "core": {
+      "title": 10,
+      "description": 4
+    },
+    "adjacent": {
+      "title": 6,
+      "description": 2
+    },
+    "roleBonus": 6,
+    "descriptionCap": 12
+  },
+  "roleTerms": [
+    "engineer",
+    "engineering",
+    "developer",
+    "architect",
+    "consultant",
+    "scientist",
+    "programmer",
+    "lead",
+    "SDE",
+    "SWE",
+    "technologist",
+    "member of technical staff"
+  ],
+  "negativeTerms": [
+    {
+      "term": "sales",
+      "aliases": [
+        "telesales",
+        "business development",
+        "account executive",
+        "account manager",
+        "key account"
+      ],
+      "except": [
+        "pre sales",
+        "sales engineer",
+        "sales engineering",
+        "sales cloud",
+        "sales automation"
+      ],
+      "penalty": 15,
+      "scope": "title"
+    },
+    {
+      "term": "customer support executive",
+      "aliases": [
+        "customer service executive",
+        "customer care executive",
+        "customer support representative",
+        "customer service representative",
+        "customer support associate",
+        "customer service associate",
+        "customer care associate",
+        "customer service agent",
+        "contact center agent",
+        "contact centre agent",
+        "call center agent",
+        "call centre agent",
+        "chat support executive",
+        "voice support executive",
+        "technical support executive",
+        "process associate",
+        "process executive"
+      ],
+      "except": [],
+      "penalty": 20,
+      "scope": "title"
+    },
+    {
+      "term": "telecaller",
+      "aliases": [
+        "tele caller",
+        "telecalling",
+        "tele calling"
+      ],
+      "except": [],
+      "penalty": 20,
+      "scope": "title"
+    },
+    {
+      "term": "voice process",
+      "aliases": [
+        "BPO voice process",
+        "chat process",
+        "non voice",
+        "typing speed",
+        "12th pass"
+      ],
+      "except": [],
+      "penalty": 12,
+      "scope": "titleAndDescription"
+    },
+    {
+      "term": "BPO",
+      "aliases": [
+        "KPO"
+      ],
+      "except": [],
+      "penalty": 12,
+      "scope": "title"
+    },
+    {
+      "term": "non technical",
+      "aliases": [
+        "non tech",
+        "nontechnical"
+      ],
+      "except": [],
+      "penalty": 10,
+      "scope": "title"
+    },
+    {
+      "term": "customer success manager",
+      "aliases": [
+        "customer success executive",
+        "customer success associate"
+      ],
+      "except": [],
+      "penalty": 12,
+      "scope": "title"
+    },
+    {
+      "term": "entry level",
+      "aliases": [
+        "intern",
+        "internship",
+        "trainee",
+        "fresher",
+        "apprentice",
+        "junior",
+        "jr",
+        "associate software engineer",
+        "associate engineer",
+        "associate developer"
+      ],
+      "except": [],
+      "penalty": 18,
+      "scope": "title"
+    },
+    {
+      "term": "support engineer",
+      "aliases": [
+        "technical support engineer",
+        "customer support engineer",
+        "application support engineer"
+      ],
+      "except": [],
+      "penalty": 10,
+      "scope": "title"
+    },
+    {
+      "term": "general manager",
+      "aliases": [
+        "assistant general manager",
+        "business operations"
+      ],
+      "except": [],
+      "penalty": 10,
+      "scope": "title"
+    },
+    {
+      "term": "delivery manager",
+      "aliases": [
+        "product delivery manager",
+        "service delivery manager",
+        "quality manager"
+      ],
+      "except": [],
+      "penalty": 6,
+      "scope": "title"
+    },
+    {
+      "term": "networking",
+      "aliases": [
+        "supply chain",
+        "LTE",
+        "5G",
+        "MACsec"
+      ],
+      "except": [],
+      "penalty": 6,
+      "scope": "title"
+    },
+    {
+      "term": "product manager",
+      "aliases": [
+        "program manager",
+        "project manager"
+      ],
+      "except": [],
+      "penalty": 10,
+      "scope": "title"
+    }
+  ],
+  "tiers": {
+    "high": 16,
+    "medium": 8,
+    "low": 4
+  },
+  "cities": [
+    {
+      "name": "Bengaluru",
+      "aliases": [
+        "Bangalore",
+        "Banglore",
+        "Bengalore",
+        "BLR"
+      ]
+    },
+    {
+      "name": "Hyderabad",
+      "aliases": [
+        "Secunderabad",
+        "HITEC City",
+        "Gachibowli",
+        "Cyberabad"
+      ]
+    },
+    {
+      "name": "Pune",
+      "aliases": [
+        "Poona",
+        "Hinjewadi",
+        "Hinjawadi",
+        "Kharadi",
+        "Magarpatta",
+        "Pimpri Chinchwad"
+      ]
+    },
+    {
+      "name": "Mumbai",
+      "aliases": [
+        "Bombay",
+        "Navi Mumbai",
+        "Thane",
+        "Powai"
+      ]
+    },
+    {
+      "name": "Chennai",
+      "aliases": [
+        "Madras"
+      ]
+    },
+    {
+      "name": "Delhi NCR",
+      "aliases": [
+        "Delhi",
+        "New Delhi",
+        "NCR"
+      ]
+    },
+    {
+      "name": "Gurugram",
+      "aliases": [
+        "Gurgaon"
+      ]
+    },
+    {
+      "name": "Noida",
+      "aliases": [
+        "Greater Noida"
+      ]
+    },
+    {
+      "name": "Kolkata",
+      "aliases": [
+        "Calcutta"
+      ]
+    },
+    {
+      "name": "Ahmedabad",
+      "aliases": [
+        "Amdavad",
+        "Gandhinagar",
+        "GIFT City"
+      ]
+    },
+    {
+      "name": "Kochi",
+      "aliases": [
+        "Cochin",
+        "Ernakulam"
+      ]
+    },
+    {
+      "name": "Thiruvananthapuram",
+      "aliases": [
+        "Trivandrum",
+        "Technopark"
+      ]
+    },
+    {
+      "name": "Coimbatore",
+      "aliases": []
+    },
+    {
+      "name": "Jaipur",
+      "aliases": []
+    },
+    {
+      "name": "Chandigarh",
+      "aliases": [
+        "Mohali",
+        "Panchkula"
+      ]
+    },
+    {
+      "name": "Indore",
+      "aliases": []
+    },
+    {
+      "name": "Nagpur",
+      "aliases": []
+    },
+    {
+      "name": "Vadodara",
+      "aliases": [
+        "Baroda"
+      ]
+    },
+    {
+      "name": "Bhubaneswar",
+      "aliases": []
+    },
+    {
+      "name": "Visakhapatnam",
+      "aliases": [
+        "Vizag"
+      ]
+    },
+    {
+      "name": "Mysuru",
+      "aliases": [
+        "Mysore"
+      ]
+    },
+    {
+      "name": "Mangaluru",
+      "aliases": [
+        "Mangalore"
+      ]
+    },
+    {
+      "name": "Lucknow",
+      "aliases": []
+    },
+    {
+      "name": "Surat",
+      "aliases": []
+    },
+    {
+      "name": "Goa",
+      "aliases": [
+        "Panaji"
+      ]
+    }
+  ],
+  "indiaTerms": [
+    "India",
+    "IND",
+    "Pan India",
+    "Karnataka",
+    "Maharashtra",
+    "Telangana",
+    "Tamil Nadu",
+    "Haryana",
+    "Uttar Pradesh",
+    "West Bengal",
+    "Gujarat",
+    "Kerala",
+    "Andhra Pradesh",
+    "Rajasthan",
+    "Odisha",
+    "Madhya Pradesh"
+  ],
+  "remoteTerms": [
+    "Remote",
+    "Work from home",
+    "WFH",
+    "Work from anywhere",
+    "Home based",
+    "Homebased",
+    "Telecommute"
+  ],
+  "remoteRegionTerms": [
+    "APAC",
+    "APJ",
+    "Asia Pacific",
+    "Asia",
+    "South Asia",
+    "Worldwide",
+    "Anywhere"
+  ],
+  "foreignCountryTerms": [
+    "United States",
+    "United States of America",
+    "USA",
+    "US",
+    "America",
+    "Canada",
+    "Mexico",
+    "Brazil",
+    "Argentina",
+    "Colombia",
+    "Chile",
+    "United Kingdom",
+    "UK",
+    "England",
+    "Scotland",
+    "Ireland",
+    "Germany",
+    "France",
+    "Spain",
+    "Italy",
+    "Portugal",
+    "Netherlands",
+    "Belgium",
+    "Switzerland",
+    "Austria",
+    "Poland",
+    "Romania",
+    "Bulgaria",
+    "Czech Republic",
+    "Hungary",
+    "Sweden",
+    "Norway",
+    "Denmark",
+    "Finland",
+    "Greece",
+    "Turkey",
+    "Israel",
+    "Egypt",
+    "South Africa",
+    "Nigeria",
+    "Kenya",
+    "United Arab Emirates",
+    "UAE",
+    "Saudi Arabia",
+    "Qatar",
+    "Pakistan",
+    "Bangladesh",
+    "Sri Lanka",
+    "Nepal",
+    "Singapore",
+    "Philippines",
+    "Japan",
+    "China",
+    "Hong Kong",
+    "Taiwan",
+    "South Korea",
+    "Malaysia",
+    "Indonesia",
+    "Thailand",
+    "Vietnam",
+    "Australia",
+    "New Zealand",
+    "EMEA",
+    "LATAM",
+    "North America",
+    "Europe"
+  ]
+}

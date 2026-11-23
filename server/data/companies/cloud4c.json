@@ -1,0 +1,10 @@
+{
+  "slug": "cloud4c",
+  "name": "Cloud4C",
+  "category": "google-partner",
+  "careersUrl": "https://www.cloud4c.com/careers",
+  "ats": "manual",
+  "manualSearchUrl": "https://careers.cloud4c.com/",
+  "status": "needs-manual",
+  "notes": "Careers links to a custom portal (careers.cloud4c.com) with no supported ATS endpoint found; filter India + Dialogflow manually."
+}

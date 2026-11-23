@@ -1,0 +1,10 @@
+{
+  "slug": "swiggy",
+  "name": "Swiggy",
+  "category": "product-bfsi",
+  "careersUrl": "https://careers.swiggy.com/",
+  "ats": "manual",
+  "manualSearchUrl": "https://careers.swiggy.com/",
+  "status": "needs-manual",
+  "notes": "No ATS host found on the careers page or homepage (detect:ats: none). Check manually."
+}

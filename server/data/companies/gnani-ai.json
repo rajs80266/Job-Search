@@ -1,0 +1,10 @@
+{
+  "slug": "gnani-ai",
+  "name": "Gnani.ai",
+  "category": "india-ai",
+  "careersUrl": "https://www.gnani.ai/careers",
+  "ats": "manual",
+  "manualSearchUrl": "https://www.gnani.ai/careers",
+  "status": "needs-manual",
+  "notes": "No ATS host found on the careers page (detect:ats: none). Check manually."
+}

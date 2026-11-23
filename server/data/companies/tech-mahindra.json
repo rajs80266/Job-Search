@@ -1,0 +1,10 @@
+{
+  "slug": "tech-mahindra",
+  "name": "Tech Mahindra",
+  "category": "google-partner",
+  "careersUrl": "https://careers.techmahindra.com/",
+  "ats": "manual",
+  "manualSearchUrl": "https://careers.techmahindra.com/",
+  "status": "needs-manual",
+  "notes": "Careers site is custom with no ATS host or job endpoint found in the fetched HTML; filter India + Dialogflow manually."
+}

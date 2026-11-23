@@ -1,0 +1,35 @@
+{
+  "total": 17,
+  "jobPostings": [
+    {
+      "title": "Senior Sales Engineer",
+      "externalPath": "/job/India---Karnataka---Fully-Flexible/Senior-Solutions-Consultant--Pre-Sales-_R34808",
+      "locationsText": "2 Locations",
+      "postedOn": "Posted 30+ Days Ago",
+      "remoteType": "Hybrid",
+      "bulletFields": [
+        "R34808"
+      ]
+    },
+    {
+      "title": "Senior Demo Platform Architect",
+      "externalPath": "/job/Pune-India/Senior-Demo-Platform-Architect_R35308",
+      "locationsText": "Pune, India",
+      "postedOn": "Posted 9 Days Ago",
+      "remoteType": "In Office",
+      "bulletFields": [
+        "R35308"
+      ]
+    },
+    {
+      "title": "Senior Partner Platform Architect",
+      "externalPath": "/job/Pune-India/Senior-Partner-Platform-Architect_R35299",
+      "locationsText": "Pune, India",
+      "postedOn": "Posted 9 Days Ago",
+      "remoteType": "In Office",
+      "bulletFields": [
+        "R35299"
+      ]
+    }
+  ]
+}

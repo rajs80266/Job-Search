@@ -1,0 +1,15 @@
+fetch("https://acme.wd3.myworkdayjobs.com/wday/cxs/acme/External/jobs", {
+  "headers": {
+    "accept": "application/json",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/json",
+    "x-csrf-token": "SECRET",
+    "sec-fetch-mode": "cors"
+  },
+  "referrer": "https://acme.wd3.myworkdayjobs.com/External",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "{\"appliedFacets\":{},\"limit\":20,\"offset\":0,\"searchText\":\"\"}",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});

@@ -1,0 +1,10 @@
+{
+  "slug": "jio",
+  "name": "Jio",
+  "category": "product-bfsi",
+  "careersUrl": "https://careers.jio.com/",
+  "ats": "manual",
+  "manualSearchUrl": "https://careers.jio.com/",
+  "status": "needs-manual",
+  "notes": "No ATS host found on the careers page or homepage (detect:ats: none). Check manually."
+}

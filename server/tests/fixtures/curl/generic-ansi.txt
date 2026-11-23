@@ -1,0 +1,1 @@
+curl 'https://careers.example.com/api/search' -X POST -H 'content-type: application/json' --data-raw $'{"keyword":"it\'s","note":"line1\\nline2","city":"Z\\u00fcrich"}'

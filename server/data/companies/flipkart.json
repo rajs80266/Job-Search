@@ -1,0 +1,10 @@
+{
+  "slug": "flipkart",
+  "name": "Flipkart",
+  "category": "product-bfsi",
+  "careersUrl": "https://www.flipkartcareers.com/",
+  "ats": "manual",
+  "manualSearchUrl": "https://www.flipkartcareers.com/",
+  "status": "needs-manual",
+  "notes": "No ATS host found on the careers page or homepage (detect:ats: none). Check manually."
+}

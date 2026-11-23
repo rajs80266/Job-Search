@@ -1,0 +1,29 @@
+{
+  "slug": "observe-ai",
+  "name": "Observe.AI",
+  "category": "india-ai",
+  "careersUrl": "https://www.observe.ai/careers",
+  "ats": "greenhouse",
+  "fetch": {
+    "url": "https://boards-api.greenhouse.io/v1/boards/observeai/jobs?content=true",
+    "method": "GET",
+    "pagination": {
+      "maxPages": 1,
+      "sortedNewestFirst": false
+    }
+  },
+  "filters": {
+    "keywords": [
+      "Dialogflow",
+      "Conversational AI",
+      "CCAI",
+      "Agent Assist",
+      "CX Agent Studio",
+      "GECX"
+    ],
+    "indiaFiltered": false
+  },
+  "status": "verified",
+  "verifiedOn": "2026-11-21",
+  "notes": "Greenhouse board token observeai found by detect:ats on the careers page (2026-11-21). Single call; scoring handles India."
+}

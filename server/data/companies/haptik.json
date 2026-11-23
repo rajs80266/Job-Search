@@ -1,0 +1,10 @@
+{
+  "slug": "haptik",
+  "name": "Haptik",
+  "category": "india-ai",
+  "careersUrl": "https://www.haptik.ai/careers",
+  "ats": "manual",
+  "manualSearchUrl": "https://www.haptik.ai/careers",
+  "status": "needs-manual",
+  "notes": "No ATS host found on the careers page (detect:ats: none). Check manually."
+}

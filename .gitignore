@@ -1,0 +1,11 @@
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+.DS_Store
+server/data/jobs.sqlite
+server/data/jobs.sqlite-shm
+server/data/jobs.sqlite-wal

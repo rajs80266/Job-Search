@@ -1,0 +1,10 @@
+{
+  "slug": "ey",
+  "name": "EY",
+  "category": "google-partner",
+  "careersUrl": "https://www.ey.com/en_in/careers",
+  "ats": "manual",
+  "manualSearchUrl": "https://careers.ey.com/",
+  "status": "needs-manual",
+  "notes": "Job board is Yello (eyglobal.yello.co), which has no adapter; filter India + Dialogflow manually."
+}

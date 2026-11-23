@@ -1,0 +1,10 @@
+{
+  "slug": "ltimindtree",
+  "name": "LTIMindtree",
+  "category": "google-partner",
+  "careersUrl": "https://www.ltm.com/careers",
+  "ats": "manual",
+  "manualSearchUrl": "https://careers.ltm.com/",
+  "status": "needs-manual",
+  "notes": "Job board is RippleHire (ltimindtree.ripplehire.com), which has no adapter; filter India + Dialogflow manually."
+}

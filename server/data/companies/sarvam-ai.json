@@ -1,0 +1,29 @@
+{
+  "slug": "sarvam-ai",
+  "name": "Sarvam AI",
+  "category": "india-ai",
+  "careersUrl": "https://www.sarvam.ai/careers",
+  "ats": "ashby",
+  "fetch": {
+    "url": "https://api.ashbyhq.com/posting-api/job-board/sarvam",
+    "method": "GET",
+    "pagination": {
+      "maxPages": 1,
+      "sortedNewestFirst": false
+    }
+  },
+  "filters": {
+    "keywords": [
+      "Dialogflow",
+      "Conversational AI",
+      "CCAI",
+      "Agent Assist",
+      "CX Agent Studio",
+      "GECX"
+    ],
+    "indiaFiltered": false
+  },
+  "status": "verified",
+  "verifiedOn": "2026-11-21",
+  "notes": "Ashby job board sarvam found by detect:ats on the careers page (2026-11-21). Single call; scoring handles India."
+}

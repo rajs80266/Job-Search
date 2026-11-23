@@ -1,0 +1,10 @@
+{
+  "slug": "corover",
+  "name": "CoRover",
+  "category": "india-ai",
+  "careersUrl": "https://corover.ai/company/careers",
+  "ats": "manual",
+  "manualSearchUrl": "https://corover.ai/company/careers",
+  "status": "needs-manual",
+  "notes": "No ATS host found on the careers page (detect:ats: none, two URLs checked). Check manually."
+}

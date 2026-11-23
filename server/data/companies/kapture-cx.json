@@ -1,0 +1,10 @@
+{
+  "slug": "kapture-cx",
+  "name": "Kapture CX",
+  "category": "cx-vendor",
+  "careersUrl": "https://www.kapturecrm.com/careers",
+  "ats": "manual",
+  "manualSearchUrl": "https://www.kapturecrm.com/",
+  "status": "needs-manual",
+  "notes": "Careers URL returns 404 and the site root returns 403 to automated requests. Check the company site manually."
+}

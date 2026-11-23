@@ -1,0 +1,10 @@
+{
+  "slug": "twilio",
+  "name": "Twilio",
+  "category": "cx-vendor",
+  "careersUrl": "https://www.twilio.com/en-us/company/jobs",
+  "ats": "manual",
+  "manualSearchUrl": "https://www.twilio.com/en-us/company/jobs",
+  "status": "needs-manual",
+  "notes": "Careers page loads Eightfold JavaScript only; no tenant host in the HTML. Check the India list manually."
+}

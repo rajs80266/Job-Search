@@ -1,0 +1,10 @@
+{
+  "slug": "five9",
+  "name": "Five9",
+  "category": "cx-vendor",
+  "careersUrl": "https://www.five9.com/company/careers",
+  "ats": "manual",
+  "manualSearchUrl": "https://www.five9.com/company/careers",
+  "status": "needs-manual",
+  "notes": "No ATS host found in the careers page HTML (detect:ats: none). Check the open roles manually."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "zoho",
+  "name": "Zoho",
+  "category": "cx-vendor",
+  "careersUrl": "https://www.zoho.com/careers.html",
+  "ats": "manual",
+  "manualSearchUrl": "https://www.zoho.com/careers.html",
+  "status": "needs-manual",
+  "notes": "Careers page is a thin page with no ATS host (detect:ats: none). Check the open roles manually."
+}

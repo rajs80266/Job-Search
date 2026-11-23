@@ -1,0 +1,10 @@
+{
+  "slug": "pwc",
+  "name": "PwC",
+  "category": "google-partner",
+  "careersUrl": "https://www.pwc.in/careers.html",
+  "ats": "manual",
+  "manualSearchUrl": "https://www.pwc.in/careers.html",
+  "status": "needs-manual",
+  "notes": "Careers site answers 403 to automated requests (bot protection); no endpoint could be read. Filter India + Dialogflow manually."
+}

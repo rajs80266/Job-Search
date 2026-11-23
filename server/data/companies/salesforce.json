@@ -1,0 +1,10 @@
+{
+  "slug": "salesforce",
+  "name": "Salesforce",
+  "category": "cx-vendor",
+  "careersUrl": "https://careers.salesforce.com/en/jobs/?country=India",
+  "ats": "manual",
+  "manualSearchUrl": "https://careers.salesforce.com/en/jobs/?country=India",
+  "status": "needs-manual",
+  "notes": "Custom careers site; no ATS host in the static HTML (detect:ats: none). Search the India list for Dialogflow or Conversational AI."
+}

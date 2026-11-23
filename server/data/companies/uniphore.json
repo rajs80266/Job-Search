@@ -1,0 +1,43 @@
+{
+  "slug": "uniphore",
+  "name": "Uniphore",
+  "category": "india-ai",
+  "careersUrl": "https://www.uniphore.com/careers/",
+  "ats": "workday",
+  "fetch": {
+    "url": "https://uniphore.wd503.myworkdayjobs.com/wday/cxs/uniphore/Uniphore/jobs",
+    "method": "POST",
+    "headers": {
+      "content-type": "application/json"
+    },
+    "body": {
+      "appliedFacets": {
+        "locations": [
+          "a9915d38cb07100cb34d33ce139d0000",
+          "a9915d38cb07100cb34d01e7ecbe0000"
+        ]
+      },
+      "limit": 20,
+      "offset": 0,
+      "searchText": ""
+    },
+    "pagination": {
+      "maxPages": 5,
+      "sortedNewestFirst": false
+    }
+  },
+  "filters": {
+    "keywords": [
+      "Dialogflow",
+      "Conversational AI",
+      "CCAI",
+      "Agent Assist",
+      "CX Agent Studio",
+      "GECX"
+    ],
+    "indiaFiltered": true
+  },
+  "status": "verified",
+  "verifiedOn": "2026-11-21",
+  "notes": "India office ids (Bangalore, Chennai) under facet locations, read from the unfiltered Workday listing on 2026-11-21."
+}

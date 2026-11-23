@@ -1,0 +1,29 @@
+{
+  "slug": "razorpay",
+  "name": "Razorpay",
+  "category": "product-bfsi",
+  "careersUrl": "https://razorpay.com/careers/",
+  "ats": "greenhouse",
+  "fetch": {
+    "url": "https://boards-api.greenhouse.io/v1/boards/razorpaysoftwareprivatelimited/jobs?content=true",
+    "method": "GET",
+    "pagination": {
+      "maxPages": 1,
+      "sortedNewestFirst": false
+    }
+  },
+  "filters": {
+    "keywords": [
+      "Dialogflow",
+      "Conversational AI",
+      "CCAI",
+      "Agent Assist",
+      "CX Agent Studio",
+      "GECX"
+    ],
+    "indiaFiltered": false
+  },
+  "status": "verified",
+  "verifiedOn": "2026-11-21",
+  "notes": "Greenhouse board token razorpaysoftwareprivatelimited found by detect:ats on the careers page (2026-11-21). Single call; scoring handles India."
+}

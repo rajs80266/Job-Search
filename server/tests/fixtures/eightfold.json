@@ -1,0 +1,109 @@
+{
+  "count": 9,
+  "positions": [
+    {
+      "id": 790319450010,
+      "name": "Workplace Specialist, Eyeline Hyderabad",
+      "posting_name": "Workplace Specialist, Eyeline Hyderabad",
+      "location": "Hyderabad,India",
+      "locations": [
+        "Hyderabad,India"
+      ],
+      "hot": 0,
+      "department": "Enterprise Operations",
+      "business_unit": "Streaming",
+      "t_update": 1794355200,
+      "t_create": 1794355200,
+      "ats_job_id": "JR43565",
+      "display_job_id": "JR43565",
+      "type": "ATS",
+      "id_locale": "JR43565-en-US",
+      "job_description": "",
+      "locale": "en-US",
+      "stars": 0,
+      "medallionProgram": null,
+      "location_flexibility": null,
+      "work_location_option": "onsite",
+      "canonicalPositionUrl": "https://explore.jobs.netflix.net/careers/job/790319450010",
+      "isPrivate": false
+    },
+    {
+      "id": 790319289797,
+      "name": "Associate Counsel, Litigation & Regulatory - India",
+      "posting_name": "Associate Counsel, Litigation & Regulatory - India",
+      "location": "Mumbai,India",
+      "locations": [
+        "Mumbai,India"
+      ],
+      "hot": 0,
+      "department": "Legal",
+      "business_unit": "Streaming",
+      "t_update": 1793577600,
+      "t_create": 1793577600,
+      "ats_job_id": "JR43378",
+      "display_job_id": "JR43378",
+      "type": "ATS",
+      "id_locale": "JR43378-en-US",
+      "job_description": "",
+      "locale": "en-US",
+      "stars": 0,
+      "medallionProgram": null,
+      "location_flexibility": null,
+      "work_location_option": "onsite",
+      "canonicalPositionUrl": "https://explore.jobs.netflix.net/careers/job/790319289797",
+      "isPrivate": false
+    },
+    {
+      "id": 790319163062,
+      "name": "Coordinator, Production Management - India",
+      "posting_name": "Coordinator, Production Management - India",
+      "location": "Mumbai,India",
+      "locations": [
+        "Mumbai,India"
+      ],
+      "hot": 0,
+      "department": "Content Production",
+      "business_unit": "Streaming",
+      "t_update": 1793059200,
+      "t_create": 1793059200,
+      "ats_job_id": "JR43229",
+      "display_job_id": "JR43229",
+      "type": "ATS",
+      "id_locale": "JR43229-en-US",
+      "job_description": "",
+      "locale": "en-US",
+      "stars": 0,
+      "medallionProgram": null,
+      "location_flexibility": null,
+      "work_location_option": "onsite",
+      "canonicalPositionUrl": "https://explore.jobs.netflix.net/careers/job/790319163062",
+      "isPrivate": false
+    },
+    {
+      "id": 790318948448,
+      "name": "Publicity Manager - India",
+      "posting_name": "Publicity Manager - India",
+      "location": "Mumbai,India",
+      "locations": [
+        "Mumbai,India"
+      ],
+      "hot": 0,
+      "department": "Marketing",
+      "business_unit": "Streaming",
+      "t_update": 1791936000,
+      "t_create": 1791936000,
+      "ats_job_id": "JR43016",
+      "display_job_id": "JR43016",
+      "type": "ATS",
+      "id_locale": "JR43016-en-US",
+      "job_description": "",
+      "locale": "en-US",
+      "stars": 0,
+      "medallionProgram": null,
+      "location_flexibility": null,
+      "work_location_option": "onsite",
+      "canonicalPositionUrl": "https://explore.jobs.netflix.net/careers/job/790318948448",
+      "isPrivate": false
+    }
+  ]
+}

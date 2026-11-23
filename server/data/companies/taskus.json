@@ -1,0 +1,43 @@
+{
+  "slug": "taskus",
+  "name": "TaskUs",
+  "category": "bpo",
+  "careersUrl": "https://www.taskus.com/careers/",
+  "ats": "workday",
+  "fetch": {
+    "url": "https://taskus.wd1.myworkdayjobs.com/wday/cxs/taskus/Careers/jobs",
+    "method": "POST",
+    "headers": {
+      "content-type": "application/json"
+    },
+    "body": {
+      "appliedFacets": {
+        "locationCountry": [
+          "c4f78be1a8f14da0ab49ce1162348a5e"
+        ]
+      },
+      "limit": 20,
+      "offset": 0,
+      "searchText": ""
+    },
+    "pagination": {
+      "maxPages": 5,
+      "sortedNewestFirst": false
+    }
+  },
+  "filters": {
+    "keywords": [
+      "Dialogflow",
+      "Conversational AI",
+      "CCAI",
+      "Agent Assist",
+      "CX Agent Studio",
+      "GECX"
+    ],
+    "indiaFiltered": true
+  },
+  "manualSearchUrl": "https://jobs.taskus.com/",
+  "status": "verified",
+  "verifiedOn": "2026-11-21",
+  "notes": "jobs.taskus.com lists Workday jobs (tenant taskus, site Careers). India facet locationCountry = India (140 jobs), read from the unfiltered Workday listing on 2026-11-21."
+}

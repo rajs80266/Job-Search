@@ -1,0 +1,10 @@
+{
+  "slug": "persistent-systems",
+  "name": "Persistent Systems",
+  "category": "google-partner",
+  "careersUrl": "https://careers.persistent.com/",
+  "ats": "manual",
+  "manualSearchUrl": "https://careers.persistent.com/",
+  "status": "needs-manual",
+  "notes": "Job search is a custom Zwayam-powered careers site with no supported ATS endpoint; filter India + Dialogflow manually."
+}

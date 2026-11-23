@@ -1,0 +1,29 @@
+{
+  "slug": "meesho",
+  "name": "Meesho",
+  "category": "product-bfsi",
+  "careersUrl": "https://meesho.io/jobs",
+  "ats": "lever",
+  "fetch": {
+    "url": "https://api.lever.co/v0/postings/meesho?mode=json",
+    "method": "GET",
+    "pagination": {
+      "maxPages": 1,
+      "sortedNewestFirst": false
+    }
+  },
+  "filters": {
+    "keywords": [
+      "Dialogflow",
+      "Conversational AI",
+      "CCAI",
+      "Agent Assist",
+      "CX Agent Studio",
+      "GECX"
+    ],
+    "indiaFiltered": false
+  },
+  "status": "verified",
+  "verifiedOn": "2026-11-21",
+  "notes": "Lever board meesho (the board's own API answers; careers.meesho.com returned 503 on 2026-11-21). Lever has no keyword search; scoring handles relevance."
+}

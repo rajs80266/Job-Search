@@ -1,0 +1,10 @@
+{
+  "slug": "kore-ai",
+  "name": "Kore.ai",
+  "category": "india-ai",
+  "careersUrl": "https://www.kore.ai/careers",
+  "ats": "manual",
+  "manualSearchUrl": "https://www.kore.ai/careers",
+  "status": "needs-manual",
+  "notes": "No ATS host found on the careers page (detect:ats: none). Check manually."
+}

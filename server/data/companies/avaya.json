@@ -1,0 +1,10 @@
+{
+  "slug": "avaya",
+  "name": "Avaya",
+  "category": "cx-vendor",
+  "careersUrl": "https://www.avaya.com/en/careers/",
+  "ats": "manual",
+  "manualSearchUrl": "https://www.avaya.com/en/careers/",
+  "status": "needs-manual",
+  "notes": "Careers page points to SuccessFactors hosts (career5 / performancemanager5 .successfactors.eu) that return 404; no working listing. Check the India roles manually."
+}

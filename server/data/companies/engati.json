@@ -1,0 +1,10 @@
+{
+  "slug": "engati",
+  "name": "Engati",
+  "category": "india-ai",
+  "careersUrl": "https://www.engati.com/careers",
+  "ats": "manual",
+  "manualSearchUrl": "https://www.engati.com/careers",
+  "status": "needs-manual",
+  "notes": "Careers page TLS handshake fails from the detect tool (internal SSL error), so no ATS could be read. Check manually."
+}

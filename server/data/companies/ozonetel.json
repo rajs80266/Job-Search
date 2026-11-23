@@ -1,0 +1,10 @@
+{
+  "slug": "ozonetel",
+  "name": "Ozonetel",
+  "category": "cx-vendor",
+  "careersUrl": "https://www.ozonetel.com/careers",
+  "ats": "manual",
+  "manualSearchUrl": "https://www.ozonetel.com/careers",
+  "status": "needs-manual",
+  "notes": "No ATS host found in the careers page HTML (detect:ats: none). Check the open roles manually."
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "conduent",
+  "name": "Conduent",
+  "category": "bpo",
+  "careersUrl": "https://careers.conduent.com/us/en",
+  "ats": "generic",
+  "fetch": {
+    "url": "https://careers.conduent.com/widgets",
+    "method": "POST",
+    "headers": {
+      "content-type": "application/json"
+    },
+    "body": {
+      "lang": "en_us",
+      "deviceType": "desktop",
+      "country": "us",
+      "pageName": "search-results",
+      "ddoKey": "refineSearch",
+      "sortBy": "",
+      "subsearch": "",
+      "from": 0,
+      "jobs": true,
+      "counts": true,
+      "all_fetch": false,
+      "pageType": "landingPage",
+      "size": 50,
+      "clearAll": false,
+      "jdsource": "facets",
+      "isSliderEnable": false,
+      "pageId": "page20",
+      "siteType": "external",
+      "keywords": "",
+      "global": true,
+      "selected_fields": {
+        "country": [
+          "India"
+        ]
+      },
+      "sort": {
+        "order": "desc",
+        "field": "postedDate"
+      },
+      "locationData": {}
+    },
+    "pagination": {
+      "maxPages": 5,
+      "pageSize": 50,
+      "sortedNewestFirst": true,
+      "type": "offset",
+      "param": "from",
+      "sizeParam": "size",
+      "start": 0
+    }
+  },
+  "fieldMap": {
+    "jobsPath": "refineSearch.data.jobs",
+    "externalId": "jobSeqNo",
+    "title": "title",
+    "urlTemplate": "https://careers.conduent.com/us/en/job/{{jobSeqNo}}",
+    "location": "location",
+    "postedAt": "postedDate",
+    "description": "descriptionTeaser",
+    "totalPath": "refineSearch.totalHits"
+  },
+  "filters": {
+    "keywords": [],
+    "indiaFiltered": true
+  },
+  "manualSearchUrl": "https://careers.conduent.com/us/en/search-results?keywords=Dialogflow",
+  "status": "verified",
+  "verifiedOn": "2026-11-21",
+  "notes": "Phenom People site; the search page's own public POST /widgets call (refineSearch, no cookies or CSRF token) with selected_fields.country=India returns the whole India board (169 on 2026-11-21), so one unfiltered query. Description is only the short teaser."
+}

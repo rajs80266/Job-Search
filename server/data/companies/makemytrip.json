@@ -1,0 +1,10 @@
+{
+  "slug": "makemytrip",
+  "name": "MakeMyTrip",
+  "category": "product-bfsi",
+  "careersUrl": "https://careers.makemytrip.com/",
+  "ats": "manual",
+  "manualSearchUrl": "https://careers.makemytrip.com/",
+  "status": "needs-manual",
+  "notes": "No ATS host detected (detect:ats: none); the homepage timed out on the second check. Check manually."
+}

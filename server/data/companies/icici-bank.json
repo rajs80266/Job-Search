@@ -1,0 +1,10 @@
+{
+  "slug": "icici-bank",
+  "name": "ICICI Bank",
+  "category": "product-bfsi",
+  "careersUrl": "https://www.icicicareers.com/CareerApplicant/Career/Home",
+  "ats": "manual",
+  "manualSearchUrl": "https://www.icicicareers.com/CareerApplicant/Career/Home",
+  "status": "needs-manual",
+  "notes": "Careers portal (icicicareers.com) has no ATS host detected; the icicibank.com/careers path returns 404. Check manually."
+}

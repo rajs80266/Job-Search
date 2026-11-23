@@ -1,0 +1,10 @@
+{
+  "slug": "netenrich",
+  "name": "Netenrich",
+  "category": "google-partner",
+  "careersUrl": "https://netenrich.com/careers",
+  "ats": "manual",
+  "manualSearchUrl": "https://netenrich.com/careers",
+  "status": "needs-manual",
+  "notes": "Careers page has no ATS host or job data in the fetched HTML; filter India + Dialogflow manually."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "infosys-bpm",
+  "name": "Infosys BPM",
+  "category": "bpo",
+  "careersUrl": "https://www.infosysbpm.com/careers.html",
+  "ats": "manual",
+  "manualSearchUrl": "https://www.infosysbpm.com/careers.html",
+  "status": "needs-manual",
+  "notes": "Careers page returns 403 to automated requests. Check manually."
+}

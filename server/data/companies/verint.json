@@ -1,0 +1,29 @@
+{
+  "slug": "verint",
+  "name": "Verint",
+  "category": "cx-vendor",
+  "careersUrl": "https://www.verint.com/careers/",
+  "ats": "ashby",
+  "fetch": {
+    "url": "https://api.ashbyhq.com/posting-api/job-board/27cfd344-670f-4dcd-8b13-0e18005b0d65",
+    "method": "GET",
+    "pagination": {
+      "maxPages": 1,
+      "sortedNewestFirst": false
+    }
+  },
+  "filters": {
+    "keywords": [
+      "Dialogflow",
+      "Conversational AI",
+      "CCAI",
+      "Agent Assist",
+      "CX Agent Studio",
+      "GECX"
+    ],
+    "indiaFiltered": false
+  },
+  "status": "verified",
+  "verifiedOn": "2026-11-21",
+  "notes": "Ashby job board id found by detect:ats on the careers page (2026-11-21). Single call; scoring handles India."
+}

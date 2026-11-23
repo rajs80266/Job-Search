@@ -1,0 +1,10 @@
+{
+  "slug": "movate",
+  "name": "Movate",
+  "category": "bpo",
+  "careersUrl": "https://www.movate.com/careers-at-movate/",
+  "ats": "manual",
+  "manualSearchUrl": "https://www.movate.com/careers/job-listing-explore-career-openings-at-movate/?search_keywords=&selected_location=india&selected_job_level=-1",
+  "status": "needs-manual",
+  "notes": "Server-rendered WordPress (Simple Job Board plugin): jobs are HTML cards, no JSON listing; /wp-json needs auth (401). Rechecked 2026-11-21. manualSearchUrl is the site's own India filter."
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "zensar",
+  "name": "Zensar",
+  "category": "google-partner",
+  "careersUrl": "https://www.zensar.com/careers",
+  "ats": "oracle-hcm",
+  "fetch": {
+    "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber=CX_1,limit=20,offset=0,sortBy=POSTING_DATES_DESC",
+    "method": "GET",
+    "headers": {},
+    "pagination": {
+      "maxPages": 5,
+      "sortedNewestFirst": false
+    }
+  },
+  "filters": {
+    "keywords": [
+      "Dialogflow",
+      "Conversational AI",
+      "CCAI",
+      "Agent Assist",
+      "CX Agent Studio",
+      "GECX"
+    ],
+    "location": "300000000435151",
+    "indiaFiltered": true
+  },
+  "status": "verified",
+  "verifiedOn": "2026-11-21",
+  "notes": "Oracle site CX_1 and India location id 300000000435151 (count 220) from a real response on 2026-11-21; verify:company not run."
+}

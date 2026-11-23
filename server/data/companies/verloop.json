@@ -1,0 +1,10 @@
+{
+  "slug": "verloop",
+  "name": "Verloop.io",
+  "category": "india-ai",
+  "careersUrl": "https://www.verloop.io/careers",
+  "ats": "manual",
+  "manualSearchUrl": "https://www.verloop.io/careers",
+  "status": "needs-manual",
+  "notes": "Careers page returns 403 to automated requests. Check manually."
+}

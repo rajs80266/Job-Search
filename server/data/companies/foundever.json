@@ -1,0 +1,24 @@
+{
+  "slug": "foundever",
+  "name": "Foundever",
+  "category": "bpo",
+  "careersUrl": "https://www.foundever.com/careers/",
+  "ats": "successfactors",
+  "fetch": {
+    "url": "https://jobs.foundever.com/search/",
+    "method": "GET",
+    "pagination": {
+      "maxPages": 5,
+      "sortedNewestFirst": false
+    }
+  },
+  "filters": {
+    "keywords": [],
+    "location": "India",
+    "indiaFiltered": true
+  },
+  "manualSearchUrl": "https://jobs.foundever.com/search/?q=&locationsearch=India",
+  "status": "verified",
+  "verifiedOn": "2026-11-21",
+  "notes": "Career site is jobs.foundever.com (www.foundever.com/careers redirects there), SuccessFactors table layout. Only ~25 India jobs, so one unfiltered India query; keyword search returned nothing for Dialogflow."
+}

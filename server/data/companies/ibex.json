@@ -1,0 +1,10 @@
+{
+  "slug": "ibex",
+  "name": "IBEX",
+  "category": "bpo",
+  "careersUrl": "https://www.ibex.co/careers/",
+  "ats": "manual",
+  "manualSearchUrl": "https://www.ibex.co/careers/",
+  "status": "needs-manual",
+  "notes": "Rechecked 2026-11-21: React app on a headless WordPress API; the careers pages cover Pakistan, Jamaica and Nicaragua (no India page found), and no ATS or job endpoint is in the JS bundle. Expect no India roles."
+}

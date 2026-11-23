@@ -1,0 +1,10 @@
+{
+  "slug": "airtel",
+  "name": "Airtel",
+  "category": "product-bfsi",
+  "careersUrl": "https://www.airtel.in/careers",
+  "ats": "manual",
+  "manualSearchUrl": "https://www.airtel.in/careers",
+  "status": "needs-manual",
+  "notes": "No ATS host or careers links found on the homepage or careers page (detect:ats: none). Check manually."
+}

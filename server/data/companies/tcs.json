@@ -1,0 +1,10 @@
+{
+  "slug": "tcs",
+  "name": "TCS",
+  "category": "google-partner",
+  "careersUrl": "https://www.tcs.com/careers",
+  "ats": "manual",
+  "manualSearchUrl": "https://www.tcs.com/careers",
+  "status": "needs-manual",
+  "notes": "Careers site answers 403 to automated requests (bot protection); no endpoint could be read. Filter India + Dialogflow manually."
+}

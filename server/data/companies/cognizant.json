@@ -1,0 +1,10 @@
+{
+  "slug": "cognizant",
+  "name": "Cognizant",
+  "category": "google-partner",
+  "careersUrl": "https://careers.cognizant.com/in-en/jobs/",
+  "ats": "manual",
+  "manualSearchUrl": "https://careers.cognizant.com/in-en/jobs/",
+  "status": "needs-manual",
+  "notes": "Careers site answers 403 to automated requests (bot protection); no endpoint could be read. Filter India + Dialogflow manually."
+}

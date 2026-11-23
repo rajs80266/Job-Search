@@ -1,0 +1,32 @@
+{
+  "slug": "sutherland",
+  "name": "Sutherland",
+  "category": "bpo",
+  "careersUrl": "https://www.jobs.sutherlandglobal.com/",
+  "ats": "generic",
+  "fetch": {
+    "url": "https://shazamme.io/Job-Listing/src/php/actions?dudaSiteID=76755cce&action=Get%20Jobs",
+    "method": "GET",
+    "pagination": {
+      "maxPages": 1,
+      "sortedNewestFirst": false
+    }
+  },
+  "fieldMap": {
+    "jobsPath": "",
+    "externalId": "data.jobID",
+    "title": "data.jobName",
+    "urlTemplate": "https://www.jobs.sutherlandglobal.com/job-details/{{page_item_url}}",
+    "location": "data.fullAddress",
+    "postedAt": "data.addedOnUTC",
+    "description": "data.fullDescription"
+  },
+  "filters": {
+    "keywords": [],
+    "indiaFiltered": false
+  },
+  "manualSearchUrl": "https://www.jobs.sutherlandglobal.com/job-results",
+  "status": "verified",
+  "verifiedOn": "2026-11-21",
+  "notes": "Shazamme-hosted job list: the site's own public GET (Get Jobs, dudaSiteID 76755cce) returns all ~438 jobs worldwide with full descriptions in one ~3 MB response (cap is 5 MB; 51 are India). No server-side filter."
+}

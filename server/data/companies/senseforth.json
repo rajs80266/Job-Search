@@ -1,0 +1,10 @@
+{
+  "slug": "senseforth",
+  "name": "Senseforth",
+  "category": "india-ai",
+  "careersUrl": "https://senseforth.ai/careers",
+  "ats": "manual",
+  "manualSearchUrl": "https://senseforth.ai/careers",
+  "status": "needs-manual",
+  "notes": "Site certificate has expired, so the detect tool cannot read the careers page. Check manually."
+}

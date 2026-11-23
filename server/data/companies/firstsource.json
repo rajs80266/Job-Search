@@ -1,0 +1,24 @@
+{
+  "slug": "firstsource",
+  "name": "Firstsource",
+  "category": "bpo",
+  "careersUrl": "https://www.firstsource.com/careers",
+  "ats": "successfactors",
+  "fetch": {
+    "url": "https://careers.firstsource.com/search/",
+    "method": "GET",
+    "pagination": {
+      "maxPages": 5,
+      "sortedNewestFirst": false
+    }
+  },
+  "filters": {
+    "keywords": [],
+    "location": "India",
+    "indiaFiltered": true
+  },
+  "manualSearchUrl": "https://careers.firstsource.com/search/?q=&locationsearch=India",
+  "status": "verified",
+  "verifiedOn": "2026-11-21",
+  "notes": "Career site is careers.firstsource.com (linked from firstsource.com/careers/job-opening), SuccessFactors table layout; JSON search API answers 401. locationsearch=India returns the 59 India jobs (25 per page), so one unfiltered India query."
+}

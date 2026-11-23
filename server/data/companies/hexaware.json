@@ -1,0 +1,10 @@
+{
+  "slug": "hexaware",
+  "name": "Hexaware",
+  "category": "google-partner",
+  "careersUrl": "https://jobs.hexaware.com/",
+  "ats": "oracle-hcm",
+  "manualSearchUrl": "https://jobs.hexaware.com/",
+  "status": "needs-manual",
+  "notes": "Job site is Oracle HCM (fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com) but the site number is not in the fetched page; filter India + Dialogflow manually."
+}

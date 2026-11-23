@@ -1,0 +1,51 @@
+{
+  "slug": "hcltech",
+  "name": "HCLTech",
+  "category": "google-partner",
+  "careersUrl": "https://careers.hcltech.com/",
+  "ats": "generic",
+  "fetch": {
+    "url": "https://careers.hcltech.com/services/recruiting/v1/jobs",
+    "method": "POST",
+    "headers": {
+      "content-type": "application/json"
+    },
+    "body": {
+      "keywords": "{{keyword}}",
+      "locale": "en_US",
+      "location": "",
+      "pageNumber": 0,
+      "sortBy": "recent"
+    },
+    "pagination": {
+      "maxPages": 5,
+      "sortedNewestFirst": false,
+      "type": "page",
+      "param": "pageNumber",
+      "start": 0
+    }
+  },
+  "fieldMap": {
+    "jobsPath": "jobSearchResult",
+    "externalId": "response.id",
+    "title": "response.unifiedStandardTitle",
+    "urlTemplate": "https://careers.hcltech.com/job/{{response.unifiedUrlTitle}}/{{response.id}}-en_US/",
+    "location": "response.custCountryRegion",
+    "totalPath": "totalJobs"
+  },
+  "filters": {
+    "keywords": [
+      "Dialogflow",
+      "Conversational AI",
+      "CCAI",
+      "Agent Assist",
+      "CX Agent Studio",
+      "GECX"
+    ],
+    "indiaFiltered": false
+  },
+  "manualSearchUrl": "https://careers.hcltech.com/search/?q=Dialogflow&locationsearch=India",
+  "status": "verified",
+  "verifiedOn": "2026-11-21",
+  "notes": "Public POST /services/recruiting/v1/jobs (the career site's own search call, no cookies). 10 jobs/page; the location param never matched, so no India filter. Listing has country only (no city, description or usable date); multi-word keywords are OR-matched."
+}

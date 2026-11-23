@@ -1,0 +1,10 @@
+{
+  "slug": "axis-bank",
+  "name": "Axis Bank",
+  "category": "product-bfsi",
+  "careersUrl": "https://www.axisbank.com/careers",
+  "ats": "manual",
+  "manualSearchUrl": "https://www.axisbank.com/careers",
+  "status": "needs-manual",
+  "notes": "No ATS host found on the careers page (detect:ats: none). Check manually."
+}

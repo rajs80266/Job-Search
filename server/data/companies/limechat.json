@@ -1,0 +1,10 @@
+{
+  "slug": "limechat",
+  "name": "LimeChat",
+  "category": "india-ai",
+  "careersUrl": "https://limechat.notion.site/Careers-at-LimeChat-14014db36db3494f94ea8da604ee3ecb",
+  "ats": "manual",
+  "manualSearchUrl": "https://limechat.notion.site/Careers-at-LimeChat-14014db36db3494f94ea8da604ee3ecb",
+  "status": "needs-manual",
+  "notes": "Careers are a Notion page (no adapter). /careers returns 404. Check manually."
+}

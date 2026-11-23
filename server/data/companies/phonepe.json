@@ -1,0 +1,10 @@
+{
+  "slug": "phonepe",
+  "name": "PhonePe",
+  "category": "product-bfsi",
+  "careersUrl": "https://www.phonepe.com/careers/",
+  "ats": "manual",
+  "manualSearchUrl": "https://www.phonepe.com/careers/",
+  "status": "needs-manual",
+  "notes": "No ATS host found on the careers page or homepage (detect:ats: none). Check manually."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "myntra",
+  "name": "Myntra",
+  "category": "product-bfsi",
+  "careersUrl": "https://careers.myntra.com",
+  "ats": "manual",
+  "manualSearchUrl": "https://careers.myntra.com",
+  "status": "needs-manual",
+  "notes": "Careers portal (careers.myntra.com) has no ATS host detected (detect:ats: none, two checks). Check manually."
+}

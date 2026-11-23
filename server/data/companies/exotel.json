@@ -1,0 +1,10 @@
+{
+  "slug": "exotel",
+  "name": "Exotel",
+  "category": "cx-vendor",
+  "careersUrl": "https://exotel.com/careers/",
+  "ats": "manual",
+  "manualSearchUrl": "https://exotel.com/careers/",
+  "status": "needs-manual",
+  "notes": "No ATS host found in the careers page HTML (detect:ats: none). Check the open roles manually."
+}

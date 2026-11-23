@@ -1,0 +1,864 @@
+{
+  "about": "Labeled relevance cases for scoring/relevance.ts and lib/location.ts, scored against server/data/profile.json. Each case asserts expected.tier and expected.isIndia. Add a failing case here before changing the profile or the algorithm (ARCHITECTURE.md, Relevance).",
+  "cases": [
+    {
+      "id": "core-01",
+      "title": "Senior Conversational AI Engineer",
+      "description": "Design and build virtual agents on Dialogflow CX and integrate them with our contact center platform.",
+      "location": "Bengaluru, Karnataka, India",
+      "expected": {
+        "tier": "high",
+        "isIndia": true
+      },
+      "why": "Core keyword + engineer in title, core stack in description."
+    },
+    {
+      "id": "core-02",
+      "title": "Dialogflow CX Developer",
+      "description": "Build flows, webhooks in Node.js and test cases for Google CCAI virtual agents.",
+      "location": "Pune, India",
+      "expected": {
+        "tier": "high",
+        "isIndia": true
+      },
+      "why": "Exact target stack."
+    },
+    {
+      "id": "core-03",
+      "title": "CCAI Solution Architect",
+      "description": "Lead Google Contact Center AI implementations: Agent Assist, Conversational Insights and CCAI Platform.",
+      "location": "Hyderabad",
+      "expected": {
+        "tier": "high",
+        "isIndia": true
+      },
+      "why": "CCAI architect; 'Contact Center AI' is the same concept as CCAI and is not counted twice."
+    },
+    {
+      "id": "core-04",
+      "title": "Lead Engineer – Google CCAI & Agent Assist",
+      "description": "Own Agent Assist and summarization integrations for a large contact centre.",
+      "location": "Mumbai, Maharashtra",
+      "expected": {
+        "tier": "high",
+        "isIndia": true
+      },
+      "why": "Two core keywords in title."
+    },
+    {
+      "id": "core-05",
+      "title": "Customer Engineer, Conversational AI, Google Cloud",
+      "description": "Help customers adopt Customer Engagement Suite, Dialogflow and Gemini Enterprise for CX.",
+      "location": "Gurugram, Haryana, India",
+      "expected": {
+        "tier": "high",
+        "isIndia": true
+      },
+      "why": "Google customer engineer role on the target products; 'Customer Engineer' is not a support executive."
+    },
+    {
+      "id": "core-06",
+      "title": "Senior Software Engineer, CX Agent Studio",
+      "description": "Build the agent runtime and tooling behind CX Agent Studio and GECX.",
+      "location": "Bangalore",
+      "expected": {
+        "tier": "high",
+        "isIndia": true
+      },
+      "why": "Newest product names."
+    },
+    {
+      "id": "core-07",
+      "title": "Voicebot Developer",
+      "description": "Build Hindi and English voice bots for loan collections. Automate telecalling with ASR and TTS.",
+      "location": "Noida, Uttar Pradesh",
+      "expected": {
+        "tier": "high",
+        "isIndia": true
+      },
+      "why": "Tricky: 'telecalling' in the description of an automation job must not trigger the telecaller penalty (title-only)."
+    },
+    {
+      "id": "core-08",
+      "title": "Chatbot Developer",
+      "description": "Develop chatbots using Dialogflow and Rasa, and integrate them with WhatsApp and CRM APIs.",
+      "location": "Ahmedabad, Gujarat",
+      "expected": {
+        "tier": "high",
+        "isIndia": true
+      },
+      "why": "Tricky: chatbot developer with a matching stack is a target role."
+    },
+    {
+      "id": "core-09",
+      "title": "AI Engineer – Contact Center",
+      "description": "Build LLM agents with RAG for our contact center and integrate Dialogflow CX and Agent Assist.",
+      "location": "Bangalore, India",
+      "expected": {
+        "tier": "high",
+        "isIndia": true
+      },
+      "why": "Tricky: only an adjacent keyword in the title, but the description is the core stack."
+    },
+    {
+      "id": "core-10",
+      "title": "IVR Developer",
+      "description": "Design IVR call flows with VoiceXML and integrate them with Genesys Cloud.",
+      "location": "Chennai, Tamil Nadu",
+      "expected": {
+        "tier": "high",
+        "isIndia": true
+      },
+      "why": "IVR is a core keyword; developer role."
+    },
+    {
+      "id": "core-11",
+      "title": "Senior Dialogflow CX Engineer",
+      "description": "Build virtual agents for a US healthcare client. Must be authorized to work in the US.",
+      "location": "Austin, TX, United States",
+      "expected": {
+        "tier": "high",
+        "isIndia": false
+      },
+      "why": "US-only: tier is about the role, isIndia is false."
+    },
+    {
+      "id": "core-12",
+      "title": "Conversational AI Consultant",
+      "description": "Implement Dialogflow CX and Vertex AI Agent Builder solutions for banking clients.",
+      "location": "Remote, India",
+      "expected": {
+        "tier": "high",
+        "isIndia": true
+      },
+      "why": "Consultant is a target level; remote within India."
+    },
+    {
+      "id": "core-13",
+      "title": "Pre-Sales Solution Consultant – Conversational AI",
+      "description": "Demo Kore.ai and Dialogflow based virtual agents to enterprise clients.",
+      "location": "Navi Mumbai",
+      "expected": {
+        "tier": "high",
+        "isIndia": true
+      },
+      "why": "Tricky: 'pre sales' is an exception to the sales penalty."
+    },
+    {
+      "id": "core-14",
+      "title": "Engineering Manager – Conversational AI Platform",
+      "description": "Lead a team of 10 engineers building our chatbot and voicebot platform.",
+      "location": "Hyderabad, Telangana",
+      "expected": {
+        "tier": "high",
+        "isIndia": true
+      },
+      "why": "Engineering leadership on the target domain."
+    },
+    {
+      "id": "core-15",
+      "title": "Staff Engineer, Vertex AI Agent Builder",
+      "description": "Work on agent orchestration and evaluation for enterprise customers.",
+      "location": "Bengaluru, India; Hyderabad, India",
+      "expected": {
+        "tier": "high",
+        "isIndia": true
+      },
+      "why": "Core product in title; two India cities."
+    },
+    {
+      "id": "core-16",
+      "title": "Senior Conversational AI Engineer",
+      "description": "Build multilingual virtual agents for customers across the region.",
+      "location": "Remote – APAC",
+      "expected": {
+        "tier": "high",
+        "isIndia": true
+      },
+      "why": "Tricky: remote + APAC region counts as India-eligible (India is in APAC)."
+    },
+    {
+      "id": "core-17",
+      "title": "Dialog Flow Developer",
+      "description": "Build bots and fulfillment webhooks on Google Cloud.",
+      "location": "Kochi, Kerala",
+      "expected": {
+        "tier": "high",
+        "isIndia": true
+      },
+      "why": "Spelling variant 'Dialog Flow'."
+    },
+    {
+      "id": "core-18",
+      "title": "CCAI-P Implementation Engineer",
+      "description": "Configure CCAI Platform queues, IVR menus and CRM integrations.",
+      "location": "Pune, Maharashtra",
+      "expected": {
+        "tier": "high",
+        "isIndia": true
+      },
+      "why": "Abbreviation 'CCAI-P' = CCAI Platform."
+    },
+    {
+      "id": "core-19",
+      "title": "Solution Architect – CCaaS",
+      "description": "Design Genesys and Amazon Connect solutions with IVR and chatbot integrations.",
+      "location": "Bengaluru",
+      "expected": {
+        "tier": "high",
+        "isIndia": true
+      },
+      "why": "Adjacent title, but a description dense with core and adjacent terms."
+    },
+    {
+      "id": "med-01",
+      "title": "Genesys Engineer",
+      "description": "Configure Genesys Cloud CX: Architect flows, IVR menus, routing and WFM for a contact center.",
+      "location": "Pune",
+      "expected": {
+        "tier": "medium",
+        "isIndia": true
+      },
+      "why": "Tricky: adjacent platform engineer – relevant but not the core stack."
+    },
+    {
+      "id": "med-02",
+      "title": "Conversational Designer",
+      "description": "Write dialogs and design conversation flows for Dialogflow CX virtual agents.",
+      "location": "Bengaluru, India",
+      "expected": {
+        "tier": "medium",
+        "isIndia": true
+      },
+      "why": "Tricky: design role on the target stack – adjacent, not engineering."
+    },
+    {
+      "id": "med-03",
+      "title": "Amazon Connect Developer",
+      "description": "Build contact flows and Lex bots on AWS for customer service.",
+      "location": "Hyderabad",
+      "expected": {
+        "tier": "medium",
+        "isIndia": true
+      },
+      "why": "Adjacent CCaaS stack."
+    },
+    {
+      "id": "med-04",
+      "title": "Senior Software Engineer",
+      "description": "Our team builds virtual agents on Dialogflow CX and Agent Assist for retail clients.",
+      "location": "Bengaluru",
+      "expected": {
+        "tier": "medium",
+        "isIndia": true
+      },
+      "why": "Generic title; core stack only in the description (capped below high)."
+    },
+    {
+      "id": "med-05",
+      "title": "Machine Learning Engineer – NLU",
+      "description": "Train intent classification and entity models for our chatbot. RAG experience is a plus.",
+      "location": "Bengaluru, Karnataka",
+      "expected": {
+        "tier": "medium",
+        "isIndia": true
+      },
+      "why": "NLU engineer for a chatbot."
+    },
+    {
+      "id": "med-06",
+      "title": "Kore.ai Developer",
+      "description": "Build bots on the Kore.ai XO platform using NLU and dialog tasks.",
+      "location": "Chennai",
+      "expected": {
+        "tier": "medium",
+        "isIndia": true
+      },
+      "why": "Adjacent platform with a dotted name."
+    },
+    {
+      "id": "med-07",
+      "title": "NICE CXone Consultant",
+      "description": "Implement Studio scripts, ACD and IVR for contact centre clients.",
+      "location": "Noida",
+      "expected": {
+        "tier": "medium",
+        "isIndia": true
+      },
+      "why": "Adjacent CCaaS consultant."
+    },
+    {
+      "id": "med-08",
+      "title": "Generative AI Engineer – Agentic AI",
+      "description": "Build LLM agents with RAG and prompt engineering. Experience with chatbots preferred.",
+      "location": "Pune",
+      "expected": {
+        "tier": "medium",
+        "isIndia": true
+      },
+      "why": "GenAI agents role with a chatbot angle."
+    },
+    {
+      "id": "med-09",
+      "title": "Conversational AI Specialist",
+      "description": "Configure and tune bots, analyse transcripts and improve NLU accuracy.",
+      "location": "Gurgaon",
+      "expected": {
+        "tier": "medium",
+        "isIndia": true
+      },
+      "why": "Core keyword but not an engineering title."
+    },
+    {
+      "id": "med-10",
+      "title": "Five9 Administrator",
+      "description": "Manage Five9 IVR scripts, campaigns and contact center reporting.",
+      "location": "Mumbai",
+      "expected": {
+        "tier": "medium",
+        "isIndia": true
+      },
+      "why": "Adjacent CCaaS admin with IVR."
+    },
+    {
+      "id": "med-11",
+      "title": "Speech Recognition Engineer",
+      "description": "Improve ASR for Indian languages used in our voice bots.",
+      "location": "Bengaluru",
+      "expected": {
+        "tier": "medium",
+        "isIndia": true
+      },
+      "why": "Speech for voicebots."
+    },
+    {
+      "id": "med-12",
+      "title": "Genesys Developer",
+      "description": "Develop Genesys Cloud integrations and IVR flows for a contact center.",
+      "location": "Gurgaon (NCR)",
+      "expected": {
+        "tier": "medium",
+        "isIndia": true
+      },
+      "why": "Gurgaon alias and NCR."
+    },
+    {
+      "id": "low-01",
+      "title": "Genesys Cloud Administrator",
+      "description": "Manage users, queues and reporting.",
+      "location": "Pune",
+      "expected": {
+        "tier": "low",
+        "isIndia": true
+      },
+      "why": "Adjacent admin role with no further signal."
+    },
+    {
+      "id": "low-02",
+      "title": "Machine Learning Engineer",
+      "description": "Build RAG pipelines and LLM agents for internal enterprise search.",
+      "location": "Bengaluru",
+      "expected": {
+        "tier": "low",
+        "isIndia": true
+      },
+      "why": "Generic GenAI role without a CX angle."
+    },
+    {
+      "id": "low-03",
+      "title": "Senior Backend Engineer",
+      "description": "Node.js microservices for our chatbot platform.",
+      "location": "Mumbai",
+      "expected": {
+        "tier": "low",
+        "isIndia": true
+      },
+      "why": "One core keyword in the description only."
+    },
+    {
+      "id": "low-04",
+      "title": "Product Manager, Conversational AI",
+      "description": "Own the roadmap for our virtual agent products.",
+      "location": "Bengaluru",
+      "expected": {
+        "tier": "low",
+        "isIndia": true
+      },
+      "why": "Right domain, wrong job family (not a target level)."
+    },
+    {
+      "id": "low-05",
+      "title": "Data Scientist – Conversational Analytics",
+      "description": "Analyse contact center transcripts with Conversational Insights and LLMs.",
+      "location": "Hyderabad",
+      "expected": {
+        "tier": "low",
+        "isIndia": true
+      },
+      "why": "Analytics, not building agents."
+    },
+    {
+      "id": "low-06",
+      "title": "Prompt Engineer",
+      "description": "Write and evaluate prompts for our internal support copilot.",
+      "location": "Remote – India",
+      "expected": {
+        "tier": "low",
+        "isIndia": true
+      },
+      "why": "Adjacent keyword only."
+    },
+    {
+      "id": "low-07",
+      "title": "Contact Center Workforce Analyst",
+      "description": "Forecasting and scheduling for a 2,000-seat operation.",
+      "location": "Hyderabad",
+      "expected": {
+        "tier": "low",
+        "isIndia": true
+      },
+      "why": "Contact center domain, non-engineering, no penalty term."
+    },
+    {
+      "id": "low-08",
+      "title": "Software Engineer – Avaya",
+      "description": "Maintain Avaya Aura telephony integrations.",
+      "location": "Pune",
+      "expected": {
+        "tier": "low",
+        "isIndia": true
+      },
+      "why": "Legacy telephony, adjacent."
+    },
+    {
+      "id": "low-09",
+      "title": "Full Stack Developer",
+      "description": "React and Python. Experience with Amazon Lex or Dialogflow is a plus.",
+      "location": "Bengaluru",
+      "expected": {
+        "tier": "low",
+        "isIndia": true
+      },
+      "why": "Nice-to-have mention only."
+    },
+    {
+      "id": "none-01",
+      "title": "Customer Support Executive – Voice",
+      "description": "Handle inbound customer calls in English and Hindi. Voice process, 12th pass can apply.",
+      "location": "Mumbai",
+      "expected": {
+        "tier": "none",
+        "isIndia": true
+      },
+      "why": "Tricky: BPO support job – penalties remove it."
+    },
+    {
+      "id": "none-02",
+      "title": "Agent Assist Specialist (non-tech)",
+      "description": "Coach contact center agents on using the Agent Assist tool. No coding required.",
+      "location": "Gurugram",
+      "expected": {
+        "tier": "none",
+        "isIndia": true
+      },
+      "why": "Tricky: core keyword in title but explicitly non-technical."
+    },
+    {
+      "id": "none-03",
+      "title": "Telecaller",
+      "description": "Outbound calls for personal loan products.",
+      "location": "Indore, Madhya Pradesh",
+      "expected": {
+        "tier": "none",
+        "isIndia": true
+      },
+      "why": "Telecaller."
+    },
+    {
+      "id": "none-04",
+      "title": "Inside Sales Executive – Conversational AI SaaS",
+      "description": "Generate pipeline for our chatbot platform.",
+      "location": "Bengaluru",
+      "expected": {
+        "tier": "none",
+        "isIndia": true
+      },
+      "why": "Sales job in the right domain."
+    },
+    {
+      "id": "none-05",
+      "title": "Business Development Manager – Chatbots",
+      "description": "Win new enterprise logos for our voicebot and chatbot suite.",
+      "location": "New Delhi",
+      "expected": {
+        "tier": "none",
+        "isIndia": true
+      },
+      "why": "Business development = sales."
+    },
+    {
+      "id": "none-06",
+      "title": "BPO Voice Process – International",
+      "description": "US shift, excellent English, handle IVR support calls.",
+      "location": "Noida",
+      "expected": {
+        "tier": "none",
+        "isIndia": true
+      },
+      "why": "BPO voice job; IVR in the description must not rescue it."
+    },
+    {
+      "id": "none-07",
+      "title": "Junior Chatbot Developer",
+      "description": "Build Dialogflow bots. 0–2 years of experience.",
+      "location": "Pune",
+      "expected": {
+        "tier": "none",
+        "isIndia": true
+      },
+      "why": "Too junior for 5–8 years."
+    },
+    {
+      "id": "none-08",
+      "title": "Conversational AI Intern",
+      "description": "Six-month internship working on our chatbot.",
+      "location": "Bengaluru",
+      "expected": {
+        "tier": "none",
+        "isIndia": true
+      },
+      "why": "Internship."
+    },
+    {
+      "id": "none-09",
+      "title": "Customer Care Executive – Chat Process",
+      "description": "Respond to customer chats and emails. Typing speed 30 wpm.",
+      "location": "Kolkata, West Bengal",
+      "expected": {
+        "tier": "none",
+        "isIndia": true
+      },
+      "why": "Chat support BPO job."
+    },
+    {
+      "id": "none-10",
+      "title": "Account Executive – Contact Center AI",
+      "description": "Sell CCAI solutions to enterprise accounts.",
+      "location": "Mumbai",
+      "expected": {
+        "tier": "none",
+        "isIndia": true
+      },
+      "why": "Sales role on the core product."
+    },
+    {
+      "id": "none-11",
+      "title": "Customer Success Manager – Yellow.ai",
+      "description": "Drive adoption and renewals for enterprise accounts.",
+      "location": "Bengaluru",
+      "expected": {
+        "tier": "none",
+        "isIndia": true
+      },
+      "why": "Account management."
+    },
+    {
+      "id": "none-12",
+      "title": "Contact Center Agent (Voice)",
+      "description": "Answer customer calls and resolve queries.",
+      "location": "Hyderabad",
+      "expected": {
+        "tier": "none",
+        "isIndia": true
+      },
+      "why": "Agent job; 'contact center' alone must not lift it."
+    },
+    {
+      "id": "none-13",
+      "title": "Data Engineer",
+      "description": "Spark, Airflow and Snowflake pipelines.",
+      "location": "San Francisco, CA",
+      "expected": {
+        "tier": "none",
+        "isIndia": false
+      },
+      "why": "Unrelated and US-only."
+    },
+    {
+      "id": "loc-01",
+      "title": "Conversational AI Engineer",
+      "description": "Build Dialogflow CX agents.",
+      "location": "Remote – US",
+      "expected": {
+        "tier": "high",
+        "isIndia": false
+      },
+      "why": "Remote in another country is not India."
+    },
+    {
+      "id": "loc-02",
+      "title": "Dialogflow CX Engineer",
+      "description": "",
+      "location": "2 Locations",
+      "indiaFiltered": true,
+      "expected": {
+        "tier": "high",
+        "isIndia": true
+      },
+      "why": "Workday '2 Locations' on an India-filtered request; empty description."
+    },
+    {
+      "id": "loc-03",
+      "title": "Senior Chatbot Engineer",
+      "description": "Build LLM-backed chatbots.",
+      "location": "London, United Kingdom | Bengaluru, India",
+      "expected": {
+        "tier": "high",
+        "isIndia": true
+      },
+      "why": "Multi-location including India."
+    },
+    {
+      "id": "loc-04",
+      "title": "Voice AI Engineer",
+      "description": "Real-time speech to text and voice agents.",
+      "location": "Remote - EMEA",
+      "expected": {
+        "tier": "high",
+        "isIndia": false
+      },
+      "why": "Remote region that excludes India."
+    },
+    {
+      "id": "loc-05",
+      "title": "Contact Center AI Engineer",
+      "description": "Agent Assist and CCAI Insights deployments.",
+      "location": "Singapore",
+      "expected": {
+        "tier": "high",
+        "isIndia": false
+      },
+      "why": "APAC office but not remote and not India."
+    },
+    {
+      "id": "loc-06",
+      "title": "Conversational AI Architect",
+      "description": "Own the target architecture for our virtual agent estate.",
+      "location": "Work from home – Pan India",
+      "expected": {
+        "tier": "high",
+        "isIndia": true
+      },
+      "why": "Pan India WFH."
+    },
+    {
+      "id": "loc-07",
+      "title": "Conversational AI Engineer",
+      "description": "Build chatbots for global clients.",
+      "location": "Remote",
+      "expected": {
+        "tier": "high",
+        "isIndia": false
+      },
+      "why": "Bare 'Remote' with no country or region is not assumed to be India."
+    },
+    {
+      "id": "fn-01",
+      "title": "Google CX Developer",
+      "description": "Data Scientists design and implement data analysis processes to derive actionable insights.",
+      "location": "Noida, Uttar Pradesh, India",
+      "expected": {
+        "tier": "high",
+        "isIndia": true
+      },
+      "why": "EXL title names Google's CX products (Dialogflow CX / CX Agent Studio) as 'Google CX'; the generic description must not hide it."
+    },
+    {
+      "id": "fn-02",
+      "title": "Google Customer Experience Practice Lead",
+      "description": "",
+      "location": "Bengaluru",
+      "expected": {
+        "tier": "high",
+        "isIndia": true
+      },
+      "why": "Accenture practice lead for Google Customer Experience (Customer Engagement Suite); description is empty."
+    },
+    {
+      "id": "fn-03",
+      "title": "#ACN GN - SONG - Service - Nice CX One - Consultant",
+      "description": "",
+      "location": "Bengaluru",
+      "expected": {
+        "tier": "low",
+        "isIndia": true
+      },
+      "why": "'Nice CX One' is a spelling of NICE CXone (adjacent platform, so low like the other CXone roles)."
+    },
+    {
+      "id": "fn-04",
+      "title": "AI CX Solutions Consultant - 5+yrs - AI tools, Python/Node.js",
+      "description": "Drive the integration and delivery of AI-driven customer experiences. Build integrations using Python and Node.js.",
+      "location": "Bangalore, India",
+      "expected": {
+        "tier": "low",
+        "isIndia": true
+      },
+      "why": "AI customer experience consulting; adjacent signal, not the Google CCAI stack."
+    },
+    {
+      "id": "fn-05",
+      "title": "Customer Experience AI and Knowledge Architect",
+      "description": "gTech Ads is responsible for support and media and technical services for customers across the Ads product stack.",
+      "location": "Hyderabad, Telangana, India",
+      "expected": {
+        "tier": "low",
+        "isIndia": true
+      },
+      "why": "'Customer Experience AI' in the title is a weak adjacent signal; the posting is an Ads support team."
+    },
+    {
+      "id": "fp-01",
+      "title": "Technical Support Engineer - 3",
+      "description": "Observe.AI is the AI Agents platform for customer experience. Our customers deploy Conversational AI, voicebot and chatbot products. You will troubleshoot customer tickets and escalate issues.",
+      "location": "Bengaluru",
+      "expected": {
+        "tier": "none",
+        "isIndia": true
+      },
+      "why": "Support engineer at a CX AI vendor: vendor boilerplate in the description must not make it medium."
+    },
+    {
+      "id": "fp-02",
+      "title": "Business Operations - General Manager - CST Travel",
+      "description": "Lead end-to-end service operations for the travel business. Work with the Conversational AI, Agent Assist and LLM agents teams on prompt engineering and conversation design for support flows.",
+      "location": "Noida, Uttar Pradesh, India",
+      "expected": {
+        "tier": "none",
+        "isIndia": true
+      },
+      "why": "Operations general manager, not a builder role; description mentions only the support team's tools."
+    },
+    {
+      "id": "fp-03",
+      "title": "Senior Product Delivery Manager (remote, Bulgaria)",
+      "description": "Own delivery for virtual agent, IVR, Genesys, Five9, Amazon Connect and Twilio Flex programs for a contact center client.",
+      "location": "Sofia, Sofia City Province, Bulgaria",
+      "expected": {
+        "tier": "low",
+        "isIndia": false
+      },
+      "why": "Delivery manager with a platform-heavy description: low, not medium."
+    },
+    {
+      "id": "fp-04",
+      "title": "Data Scientist- Agentic AI,RAG,MCP, AI, LangGraph, Vector DB, Supply Chain, Cloud- (10-15yrs)exp",
+      "description": "",
+      "location": "Bangalore, India",
+      "expected": {
+        "tier": "low",
+        "isIndia": true
+      },
+      "why": "Generic agentic/RAG data science for supply chain, not conversational AI."
+    },
+    {
+      "id": "fp-05",
+      "title": "Software Engineer – AI & Agentic Systems - 4to8yrs - Python, C/C++, AI/ML(LLM, RAG), IEEE 802.1AE MACsec & IEEE 802.1X MKA, Networking",
+      "description": "",
+      "location": "Bangalore, India",
+      "expected": {
+        "tier": "low",
+        "isIndia": true
+      },
+      "why": "Network-security engineering with an AI label."
+    },
+    {
+      "id": "fp-06",
+      "title": "Software Engineer – AI & Agentic Systems - 4to8yrs - Python, C/C++, LTE/5G, Networking",
+      "description": "",
+      "location": "Bangalore, India",
+      "expected": {
+        "tier": "none",
+        "isIndia": true
+      },
+      "why": "Telecom/networking engineering with an AI label."
+    },
+    {
+      "id": "loc-08",
+      "title": "Conversational AI Engineer",
+      "description": "Build Dialogflow CX agents.",
+      "location": "Taguig, NCR, Philippines",
+      "expected": {
+        "tier": "high",
+        "isIndia": false
+      },
+      "why": "Metro Manila is also called NCR; a named foreign country wins over the Delhi NCR alias."
+    },
+    {
+      "id": "loc-09",
+      "title": "Conversational AI Engineer",
+      "description": "Build Dialogflow CX agents.",
+      "location": "Work from anywhere, United States",
+      "expected": {
+        "tier": "high",
+        "isIndia": false
+      },
+      "why": "'anywhere' inside 'Work from anywhere' is not a region that includes India, and the US is named."
+    },
+    {
+      "id": "loc-10",
+      "title": "Conversational AI Engineer",
+      "description": "Build Dialogflow CX agents.",
+      "location": "Remote - Anywhere in the US",
+      "expected": {
+        "tier": "high",
+        "isIndia": false
+      },
+      "why": "Remote plus 'Anywhere' must not count as India when a foreign country is named."
+    },
+    {
+      "id": "loc-11",
+      "title": "Conversational AI Engineer",
+      "description": "Build Dialogflow CX agents.",
+      "location": "Hyderabad, Pakistan",
+      "expected": {
+        "tier": "high",
+        "isIndia": false
+      },
+      "why": "A city name shared with India does not make a job India when another country is named."
+    },
+    {
+      "id": "loc-12",
+      "title": "Conversational AI Engineer",
+      "description": "Build Dialogflow CX agents.",
+      "location": "Remote (Asia - Japan)",
+      "expected": {
+        "tier": "high",
+        "isIndia": false
+      },
+      "why": "Asia region is not enough when a specific non-India country is named."
+    },
+    {
+      "id": "loc-13",
+      "title": "Conversational AI Engineer",
+      "description": "Build Dialogflow CX agents.",
+      "location": "Pune | Singapore",
+      "expected": {
+        "tier": "high",
+        "isIndia": true
+      },
+      "why": "One India location in a multi-location string is enough."
+    },
+    {
+      "id": "loc-14",
+      "title": "Conversational AI Engineer",
+      "description": "Build Dialogflow CX agents.",
+      "location": "Remote - Worldwide",
+      "expected": {
+        "tier": "high",
+        "isIndia": true
+      },
+      "why": "Remote with a worldwide region includes India."
+    }
+  ]
+}

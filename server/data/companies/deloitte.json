@@ -1,0 +1,10 @@
+{
+  "slug": "deloitte",
+  "name": "Deloitte",
+  "category": "google-partner",
+  "careersUrl": "https://www.deloitte.com/in/en/careers.html",
+  "ats": "manual",
+  "manualSearchUrl": "https://southasiacareers.deloitte.com/",
+  "status": "needs-manual",
+  "notes": "Careers link to a custom South Asia portal (southasiacareers.deloitte.com) with no supported ATS endpoint found; filter India + Dialogflow manually."
+}

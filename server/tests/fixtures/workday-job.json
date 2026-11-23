@@ -1,0 +1,37 @@
+{
+  "jobPostingInfo": {
+    "id": "85b657c0702e1051aa6bd06377880000",
+    "title": "Senior Verification Engineer",
+    "jobDescription": "<p>NVIDIA has continuously reinvented itself. Our invention of the GPU sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. Today, research in artificial intelligence is booming worldwide, which calls for highly scalable and massively parallel computation horsepower that NVIDIA GPUs excel. NVIDIA is a “learning machine” that constantly evolves by adapting to new opportunities that are hard to solve, that only we can address, and that matter to the world. This is our life’s work , to amplify human creativity and intelligence. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join our diverse team and see how you can make a lasting impact on the world!</p><br /><p>NVIDIA is seeking best-in-class Senior CPU/SOC Verification Engineer to verify the world&#39;s most powerful CPUs/Socs with AI capabilities for self-driving cars, gaming consoles &amp; other automated machines (see NVIDIA Vera CPU and Arm Architecture | NVIDIA). NVIDIA is a “learning machine” that constantly evolves by adapting to new opportunities that are hard to pursue, that only we can take on, and that matter to the world. We have crafted a team of excellent people stretching around the globe, whose mission is to push the frontiers of what is possible today and define the platform for the future of computing.</p><br /><p><b>What you’ll be doing:</b></p><ul><li>Work alongside brilliant engineers on NVIDIA&#39;s next generation CPU</li><li>Verify micro-architecture/architecture features at unit level or subsystem or full chip testbenches including FPGA/Silicon</li><li>Partner with CPU architects in crafting verifiable designs.</li><li>Working on full stack development - from verifying sequences at SW simulator level, to getting the overall end-to-end sequence working on silicon with a full SW stack.</li></ul><br /><p><b>What we need to see:</b></p><ul><li>Strong verification fundamentals and are able to juggle working on SW simulators vs Silicon</li><li>Proficiency in CPU architecture (ARM knowledge is desirable), Coherent fabric designs, Verilog, System Verilog and possess strong debugging skills.</li><li>3&#43; years of experience with Bachelors/Masters in Computer Science or Electronics Engineering or equivalent experience</li></ul><br /><p><b>Ways to stand out from the crowd:</b></p><ul><li>Worked on various pieces of CPU unit/microarchitecture verification, Interconnect, system memory coherency</li><li>You have worked on complex coverage driven verification projects</li><li>Experience of collaborating with geographically diverse multi-functional teams</li></ul><br /><p>With competitive salaries and a generous benefits package, we are widely considered to be one of the technology world’s most desirable employers. We have some of the most resourceful and versatile people in the world working for us and, due to outstanding growth, our best-in-class engineering teams are rapidly growing. If you&#39;re a creative and autonomous engineer with a real passion for technology, we want to hear from you. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p><p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p>",
+    "location": "India, Bengaluru",
+    "postedOn": "Posted Today",
+    "startDate": "2026-11-21",
+    "timeType": "Full time",
+    "jobReqId": "JR2030308",
+    "jobPostingId": "Senior-Verification-Engineer_JR2030308",
+    "jobPostingSiteId": "NVIDIAExternalCareerSite",
+    "country": {
+      "descriptor": "India",
+      "id": "c4f78be1a8f14da0ab49ce1162348a5e"
+    },
+    "canApply": true,
+    "posted": true,
+    "includeResumeParsing": true,
+    "jobRequisitionLocation": {
+      "descriptor": "India, Bengaluru",
+      "country": {
+        "descriptor": "India",
+        "id": "c4f78be1a8f14da0ab49ce1162348a5e",
+        "alpha2Code": "IN"
+      }
+    },
+    "externalUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Verification-Engineer_JR2030308",
+    "questionnaireId": "2f2764b3a82910064296831695150000"
+  },
+  "hiringOrganization": {
+    "name": "IN01 NVIDIA Graphics Bengaluru",
+    "url": ""
+  },
+  "similarJobs": [],
+  "userAuthenticated": false
+}

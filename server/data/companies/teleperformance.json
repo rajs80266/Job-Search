@@ -1,0 +1,38 @@
+{
+  "slug": "teleperformance",
+  "name": "Teleperformance",
+  "category": "bpo",
+  "careersUrl": "https://www.tp.com/en-us/careers/job-opportunities/",
+  "ats": "generic",
+  "fetch": {
+    "url": "https://www.tp.com/Umbraco/Api/Careers/GetCareersBase?node=1780&country=India&culture=en-us",
+    "method": "GET",
+    "pagination": {
+      "maxPages": 20,
+      "pageSize": 100,
+      "sortedNewestFirst": true,
+      "type": "page",
+      "param": "page",
+      "sizeParam": "pageSize",
+      "start": 0
+    }
+  },
+  "fieldMap": {
+    "jobsPath": "resultado",
+    "externalId": "url",
+    "title": "title",
+    "url": "url",
+    "location": "location",
+    "postedAt": "date",
+    "description": "description",
+    "totalPath": "totalRegistros"
+  },
+  "filters": {
+    "keywords": [],
+    "indiaFiltered": true
+  },
+  "manualSearchUrl": "https://www.tp.com/en-us/careers/job-opportunities/",
+  "status": "verified",
+  "verifiedOn": "2026-11-21",
+  "notes": "tp.com's own public GET /Umbraco/Api/Careers/GetCareersBase (node 1780, country=India) lists the ~1,190 India jobs (Workday-sourced, links go to onetp.wd1.myworkdayjobs.com) with descriptions; 100 per page, 12 pages. Location is an office name (e.g. TPIN Malad), not a city."
+}

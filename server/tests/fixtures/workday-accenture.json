@@ -1,0 +1,41 @@
+{
+  "total": 2000,
+  "jobPostings": [
+    {
+      "title": "AI / ML Engineer",
+      "externalPath": "/job/Pune/AI---ML-Engineer_ATCI-5376288-S2025743-1",
+      "postedOn": "Posted 15 Days Ago",
+      "bulletFields": [
+        "ATCI-5376288-S2025743",
+        "Pune"
+      ]
+    },
+    {
+      "title": "AI / ML Engineer",
+      "externalPath": "/job/Bengaluru/AI---ML-Engineer_ATCI-5682573-S2061307",
+      "postedOn": "Posted 10 Days Ago",
+      "bulletFields": [
+        "ATCI-5682573-S2061307",
+        "Bengaluru"
+      ]
+    },
+    {
+      "title": "AI / ML Engineer",
+      "externalPath": "/job/Bengaluru/AI---ML-Engineer_ATCI-5682572-S2063051",
+      "postedOn": "Posted 10 Days Ago",
+      "bulletFields": [
+        "ATCI-5682572-S2063051",
+        "Bengaluru"
+      ]
+    },
+    {
+      "title": "AI / ML Engineer",
+      "externalPath": "/job/Bengaluru/AI---ML-Engineer_ATCI-5682571-S2063050-1",
+      "postedOn": "Posted 29 Days Ago",
+      "bulletFields": [
+        "ATCI-5682571-S2063050",
+        "Bengaluru"
+      ]
+    }
+  ]
+}

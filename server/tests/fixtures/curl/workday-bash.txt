@@ -1,0 +1,11 @@
+curl 'https://acme.wd3.myworkdayjobs.com/wday/cxs/acme/External/jobs' \
+  -H 'accept: application/json' \
+  -H 'accept-language: en-US' \
+  -H 'content-type: application/json' \
+  -H 'cookie: PLAY_SESSION=abc123; wd-browser-id=zzz' \
+  -H 'origin: https://acme.wd3.myworkdayjobs.com' \
+  -H 'referer: https://acme.wd3.myworkdayjobs.com/External' \
+  -H 'sec-ch-ua: "Chromium";v="130"' \
+  -H 'user-agent: Mozilla/5.0' \
+  -H 'x-calypso-csrf-token: SECRET-TOKEN' \
+  --data-raw '{"appliedFacets":{"locationCountry":["c4f78be1a8f14da0ab49ce1162348a5e"]},"limit":20,"offset":0,"searchText":""}'

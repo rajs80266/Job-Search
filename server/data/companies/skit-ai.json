@@ -1,0 +1,10 @@
+{
+  "slug": "skit-ai",
+  "name": "Skit.ai",
+  "category": "india-ai",
+  "careersUrl": "https://skit.ai/careers/",
+  "ats": "manual",
+  "manualSearchUrl": "https://skit.ai/careers/",
+  "status": "needs-manual",
+  "notes": "No ATS host found on the careers page (detect:ats: none). Check manually."
+}

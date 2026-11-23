@@ -1,0 +1,10 @@
+{
+  "slug": "zomato",
+  "name": "Zomato",
+  "category": "product-bfsi",
+  "careersUrl": "https://www.zomato.com/careers",
+  "ats": "manual",
+  "manualSearchUrl": "https://www.zomato.com/careers",
+  "status": "needs-manual",
+  "notes": "No ATS host found on the careers page or homepage (detect:ats: none). Check manually."
+}

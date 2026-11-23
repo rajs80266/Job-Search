@@ -1,0 +1,10 @@
+{
+  "slug": "liveperson",
+  "name": "LivePerson",
+  "category": "cx-vendor",
+  "careersUrl": "https://www.liveperson.com/company/careers/",
+  "ats": "manual",
+  "manualSearchUrl": "https://www.liveperson.com/company/careers/",
+  "status": "needs-manual",
+  "notes": "No ATS host found in the careers page HTML (detect:ats: none). Check the open roles manually."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "nice",
+  "name": "NICE",
+  "category": "cx-vendor",
+  "careersUrl": "https://www.nice.com/careers",
+  "ats": "manual",
+  "manualSearchUrl": "https://www.nice.com/careers",
+  "status": "needs-manual",
+  "notes": "No ATS host found in the careers page HTML (detect:ats: none). Check the open roles manually."
+}

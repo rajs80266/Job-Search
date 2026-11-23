@@ -1,0 +1,30 @@
+{
+  "slug": "google",
+  "name": "Google",
+  "category": "google-partner",
+  "careersUrl": "https://www.google.com/about/careers/applications/jobs/results",
+  "ats": "google-careers",
+  "fetch": {
+    "url": "https://www.google.com/about/careers/applications/jobs/results?location=India&sort_by=date",
+    "method": "GET",
+    "headers": {},
+    "pagination": {
+      "maxPages": 5,
+      "sortedNewestFirst": true
+    }
+  },
+  "filters": {
+    "keywords": [
+      "Dialogflow",
+      "Conversational AI",
+      "CCAI",
+      "Agent Assist",
+      "CX Agent Studio",
+      "GECX"
+    ],
+    "indiaFiltered": true
+  },
+  "status": "verified",
+  "verifiedOn": "2026-11-21",
+  "notes": "location=India results page with embedded ds:1 request confirmed on 2026-11-21; verify:company not run."
+}

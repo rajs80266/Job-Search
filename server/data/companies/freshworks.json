@@ -1,0 +1,30 @@
+{
+  "slug": "freshworks",
+  "name": "Freshworks",
+  "category": "cx-vendor",
+  "careersUrl": "https://www.freshworks.com/company/careers/",
+  "ats": "smartrecruiters",
+  "fetch": {
+    "url": "https://api.smartrecruiters.com/v1/companies/Freshworks/postings",
+    "method": "GET",
+    "pagination": {
+      "maxPages": 5,
+      "sortedNewestFirst": true
+    }
+  },
+  "filters": {
+    "keywords": [
+      "Dialogflow",
+      "Conversational AI",
+      "CCAI",
+      "Agent Assist",
+      "CX Agent Studio",
+      "GECX"
+    ],
+    "location": "in",
+    "indiaFiltered": true
+  },
+  "status": "verified",
+  "verifiedOn": "2026-11-21",
+  "notes": "SmartRecruiters company id Freshworks found by detect:ats on the careers page (2026-11-21)."
+}

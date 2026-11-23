@@ -1,0 +1,52 @@
+{
+  "slug": "wipro",
+  "name": "Wipro",
+  "category": "google-partner",
+  "careersUrl": "https://careers.wipro.com/",
+  "ats": "generic",
+  "fetch": {
+    "url": "https://careers.wipro.com/services/recruiting/v1/jobs",
+    "method": "POST",
+    "headers": {
+      "content-type": "application/json"
+    },
+    "body": {
+      "keywords": "{{keyword}}",
+      "locale": "en_US",
+      "location": "India",
+      "pageNumber": 0,
+      "sortBy": "recent"
+    },
+    "pagination": {
+      "maxPages": 5,
+      "sortedNewestFirst": false,
+      "type": "page",
+      "param": "pageNumber",
+      "start": 0
+    }
+  },
+  "fieldMap": {
+    "jobsPath": "jobSearchResult",
+    "externalId": "response.id",
+    "title": "response.unifiedStandardTitle",
+    "urlTemplate": "https://careers.wipro.com/job/{{response.unifiedUrlTitle}}/{{response.id}}-en_US/",
+    "location": "response.sfstd_jobLocation_obj",
+    "totalPath": "totalJobs"
+  },
+  "filters": {
+    "keywords": [
+      "Dialogflow",
+      "Conversational AI",
+      "CCAI",
+      "Agent Assist",
+      "CX Agent Studio",
+      "GECX"
+    ],
+    "location": "India",
+    "indiaFiltered": true
+  },
+  "manualSearchUrl": "https://careers.wipro.com/search/?q=Dialogflow&locationsearch=India",
+  "status": "verified",
+  "verifiedOn": "2026-11-21",
+  "notes": "Public POST /services/recruiting/v1/jobs (the career site's own search call, no cookies); body location=India works. 10 jobs/page; listing has city only (no description or usable date); multi-word keywords are OR-matched."
+}

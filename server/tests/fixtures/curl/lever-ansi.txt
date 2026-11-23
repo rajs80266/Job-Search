@@ -1,0 +1,5 @@
+curl 'https://api.lever.co/v0/postings/meesho?mode=json&token=SECRET' \
+  -H 'accept: */*' \
+  -H 'authorization: Bearer SECRET-BEARER' \
+  -b 'session=abc' \
+  --compressed

@@ -1,0 +1,10 @@
+{
+  "slug": "gupshup",
+  "name": "Gupshup",
+  "category": "india-ai",
+  "careersUrl": "https://www.gupshup.io/careers",
+  "ats": "manual",
+  "manualSearchUrl": "https://www.gupshup.io/careers",
+  "status": "needs-manual",
+  "notes": "No ATS host found on the careers page (detect:ats: none; /company/careers returns 404). Check manually."
+}

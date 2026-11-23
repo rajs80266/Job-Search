@@ -1,0 +1,89 @@
+{
+  "slug": "genpact",
+  "name": "Genpact",
+  "category": "google-partner",
+  "careersUrl": "https://www.genpact.com/careers",
+  "ats": "workday",
+  "fetch": {
+    "url": "https://genpact.wd108.myworkdayjobs.com/wday/cxs/genpact/External_Careers/jobs",
+    "method": "POST",
+    "headers": {
+      "content-type": "application/json"
+    },
+    "body": {
+      "appliedFacets": {
+        "locations": [
+          "faddece16d451000bf3a693d530e0000",
+          "faddece16d451000bf3431453ec10000",
+          "faddece16d451000bf3f6b6fd3460000",
+          "faddece16d451000bf3a7414fa770000",
+          "faddece16d451000bf355dde36f70000",
+          "faddece16d451000bf39921bee4a0000",
+          "faddece16d451000bf39602074150000",
+          "faddece16d451000bf38ec7a7f2e0000",
+          "faddece16d451000bf37ad3571790000",
+          "03c53440f02d1000c3514fefac9c0000",
+          "faddece16d451000bf32ffeb20950000",
+          "faddece16d451000bf33e08c2fb50000",
+          "faddece16d451000bf3f64d149160000",
+          "faddece16d451000bf34a6b79be40000",
+          "faddece16d451000bf3be21bae0f0000",
+          "faddece16d451000bf3887e2c7e10000",
+          "faddece16d451000bf32840a7aae0000",
+          "faddece16d451000bf33c60d6da10000",
+          "faddece16d451000bf37890590770000",
+          "faddece16d451000bf3c9d4601010000",
+          "faddece16d451000bf3c80f8daeb0000",
+          "faddece16d451000bf374df10fa90000",
+          "faddece16d451000bf3cf52b8c630000",
+          "faddece16d451000bf3f05bfd76c0000",
+          "faddece16d451000bf35c44819a90000",
+          "faddece16d451000bf32ecada1f70000",
+          "faddece16d451000bf3d1bb2afcf0000",
+          "faddece16d451000bf335d4335830000",
+          "faddece16d451000bf4036b599930000",
+          "faddece16d451000bf3abce51e850000",
+          "faddece16d451000bf3c88cb990f0000",
+          "faddece16d451000bf3654f2ad0c0000",
+          "faddece16d451000bf34b35eae2a0000",
+          "faddece16d451000bf324de9696b0000",
+          "faddece16d451000bf33b19980d10000",
+          "5a8fce03a21a10014ddf7f39f41c0000",
+          "76b02f08dd1310016d6b19dc61be0000",
+          "b1404e288dc71000db08962858cc0000",
+          "faddece16d451000bf3f686e641b0000",
+          "faddece16d451000bf369b6d5a040000",
+          "b1404e288dc710016d1fa215ea6c0000",
+          "faddece16d451000bf36c0cdf3220000",
+          "faddece16d451000bf3baabf8abd0000",
+          "faddece16d451000bf3c41c774830000",
+          "faddece16d451000bf3d37688ca50000",
+          "bd9ea76bd64b1000aeebe6bd05340000",
+          "faddece16d451000bf34357c70cf0000",
+          "faddece16d451000bf325822da9e0000"
+        ]
+      },
+      "limit": 20,
+      "offset": 0,
+      "searchText": ""
+    },
+    "pagination": {
+      "maxPages": 5,
+      "sortedNewestFirst": false
+    }
+  },
+  "filters": {
+    "keywords": [
+      "Dialogflow",
+      "Conversational AI",
+      "CCAI",
+      "Agent Assist",
+      "CX Agent Studio",
+      "GECX"
+    ],
+    "indiaFiltered": true
+  },
+  "status": "verified",
+  "verifiedOn": "2026-11-21",
+  "notes": "48 India location ids (descriptor 1401-G-India) from a real Workday response on 2026-11-21; facet key is locations (locationMainGroup returned HTTP 400)."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "searce",
+  "name": "Searce",
+  "category": "google-partner",
+  "careersUrl": "https://www.searce.com/careers",
+  "ats": "manual",
+  "manualSearchUrl": "https://www.google.com/search?q=Searce+careers+India+Dialogflow",
+  "status": "needs-manual",
+  "notes": "The careers URL returned 404 and no working careers page or ATS was found; manual search link used. Find the current careers URL first."
+}

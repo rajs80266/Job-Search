@@ -1,0 +1,10 @@
+{
+  "slug": "convin",
+  "name": "Convin",
+  "category": "india-ai",
+  "careersUrl": "https://www.linkedin.com/company/convin/jobs/",
+  "ats": "manual",
+  "manualSearchUrl": "https://www.linkedin.com/company/convin/jobs/",
+  "status": "needs-manual",
+  "notes": "Rechecked 2026-11-21: convin.ai has no careers page (404) and its only job link is LinkedIn (not scraped). Check manually."
+}

@@ -1,0 +1,10 @@
+{
+  "slug": "ttec",
+  "name": "TTEC",
+  "category": "bpo",
+  "careersUrl": "https://www.ttec.com/careers",
+  "ats": "manual",
+  "manualSearchUrl": "https://www.ttec.com/careers",
+  "status": "needs-manual",
+  "notes": "Careers page returns 403 to automated requests. Check manually."
+}

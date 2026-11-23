@@ -1,0 +1,10 @@
+{
+  "slug": "mphasis",
+  "name": "Mphasis",
+  "category": "google-partner",
+  "careersUrl": "https://www.mphasis.com/home/careers.html",
+  "ats": "manual",
+  "manualSearchUrl": "https://careers.mphasis.com/",
+  "status": "needs-manual",
+  "notes": "Careers link to a custom portal (careers.mphasis.com) with no supported ATS endpoint found; filter India + Dialogflow manually."
+}

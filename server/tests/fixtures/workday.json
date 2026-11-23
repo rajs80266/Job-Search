@@ -1,0 +1,41 @@
+{
+  "total": 237,
+  "jobPostings": [
+    {
+      "title": "Senior Verification Engineer",
+      "externalPath": "/job/India-Bengaluru/Senior-Verification-Engineer_JR2030308",
+      "locationsText": "India, Bengaluru",
+      "postedOn": "Posted Today",
+      "bulletFields": [
+        "JR2030308"
+      ]
+    },
+    {
+      "title": "Datacenter Technician",
+      "externalPath": "/job/India-Bengaluru/Datacenter-Technician_JR2029987",
+      "locationsText": "India, Bengaluru",
+      "postedOn": "Posted Yesterday",
+      "bulletFields": [
+        "JR2029987"
+      ]
+    },
+    {
+      "title": "ASIC Design Engineer, Clocks",
+      "externalPath": "/job/India-Bengaluru/ASIC-Design-Engineer--Clocks_JR2029180",
+      "locationsText": "India, Bengaluru",
+      "postedOn": "Posted Yesterday",
+      "bulletFields": [
+        "JR2029180"
+      ]
+    },
+    {
+      "title": "Solutions Architect, Data Center MEP",
+      "externalPath": "/job/India-Bengaluru/Solutions-Architect--Data-Center-MEP_JR2021050",
+      "locationsText": "India, Bengaluru",
+      "postedOn": "Posted 2 Days Ago",
+      "bulletFields": [
+        "JR2021050"
+      ]
+    }
+  ]
+}

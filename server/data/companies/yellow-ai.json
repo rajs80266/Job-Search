@@ -1,0 +1,10 @@
+{
+  "slug": "yellow-ai",
+  "name": "Yellow.ai",
+  "category": "india-ai",
+  "careersUrl": "https://yellow.ai/career/",
+  "ats": "manual",
+  "manualSearchUrl": "https://yellow.ai/career/",
+  "status": "needs-manual",
+  "notes": "No ATS host found on the careers page (detect:ats: none; /careers/ returns 404). Check manually."
+}

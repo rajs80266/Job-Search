@@ -1,0 +1,24 @@
+{
+  "name": "india-cx-ai-job-tracker",
+  "private": true,
+  "workspaces": [
+    "server",
+    "web"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "concurrently -n server,web -c blue,green \"npm run dev -w server\" \"npm run dev -w web\"",
+    "typecheck": "npm run typecheck --workspaces",
+    "lint": "npm run lint --workspaces",
+    "test": "npm run test --workspaces --if-present",
+    "format": "npm run format --workspaces",
+    "refresh": "npm run refresh -w server --",
+    "detect:ats": "npm run detect:ats -w server --",
+    "verify:company": "npm run verify:company -w server --"
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.7"
+  }
+}
